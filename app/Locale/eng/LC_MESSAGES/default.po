@@ -1,0 +1,3784 @@
+#: Admin/View/Groups/index.ctp:10
+msgid "Groups"
+msgstr "Groups"
+
+#: Admin/View/Groups/index.ctp:15
+msgid "Add New Group"
+msgstr "Add New Group"
+
+#: Admin/View/Groups/index.ctp:16
+msgid "Edit"
+msgstr "Edit"
+
+#: Admin/View/Groups/index.ctp:17
+msgid "Delete"
+msgstr "Delete"
+
+#: Admin/View/Groups/index.ctp:32
+msgid "Group Name"
+msgstr "Group Name"
+
+#: Admin/View/Groups/index.ctp:33
+msgid "Action"
+msgstr "Action"
+
+#: Admin/View/Groups/add.ctp:2
+msgid "Add Groups"
+msgstr "Add Groups"
+
+#: Admin/View/Groups/add.ctp:13
+msgid "Save"
+msgstr "Save"
+
+#: Admin/View/Groups/add.ctp:14
+msgid "Close"
+msgstr "Close"
+
+#: Admin/View/Groups/edit.ctp:3
+msgid "Edit Groups"
+msgstr "Edit Groups"
+
+#: Admin/View/Groups/edit.ctp:8
+msgid "Form"
+msgstr "Form"
+
+
+
+#: Admin/View/Groups/edit.ctp:27
+msgid "Update"
+msgstr "Update"
+
+#: Admin/View/Groups/edit.ctp:28
+msgid "Cancel"
+msgstr "Cancel"
+
+#: Admin/Controller/GroupsController.php:40
+msgid "Group Added Successfully"
+msgstr "Group Added Successfully"
+
+#: Admin/Controller/GroupsController.php:66
+msgid "Invalid post"
+msgstr "Invalid post"
+
+
+#: Admin/Controller/GroupsController.php:74
+msgid "Group has been saved"
+msgstr "Group has been saved"
+
+#: Admin/Controller/GroupsController.php:105
+msgid "Group has been deleted"
+msgstr "Group has been deleted"
+
+#: Admin/View/Advertisements/index.ctp:10
+msgid "Advertisements"
+msgstr "Advertisements"
+
+#: Admin/View/Advertisements/index.ctp:15
+msgid "Add New Advertisement"
+msgstr "Add New Advertisement"
+
+#: Admin/View/Advertisements/index.ctp:32
+msgid "Advertisement Name"
+msgstr "Advertisement Name"
+
+#: Admin/View/Advertisements/index.ctp:33
+msgid "Ordering"
+msgstr "Ordering"
+
+#: Admin/View/Advertisements/index.ctp:34
+msgid "Status"
+msgstr "Status"
+
+#: Admin/View/Advertisements/index.ctp:44
+msgid "Active"
+msgstr "Active"
+
+#: Admin/View/Advertisements/index.ctp:44
+msgid "Suspend"
+msgstr "Suspend"
+
+#: Admin/View/Advertisements/index.ctp:50
+msgid "View"
+msgstr "View"
+
+#: Admin/View/Advertisements/index.ctp:51
+msgid "Change Photo"
+msgstr "Change Photo"
+
+#: Admin/View/Advertisements/view.ctp:7
+msgid "View Slides"
+msgstr "View Slides"
+
+#: Admin/View/Advertisements/changephoto.ctp:3
+msgid "Update Photo"
+msgstr "Update Photo"
+
+#: Admin/View/Advertisements/changephoto.ctp:7
+msgid "Upload Photo"
+msgstr "Upload Photo"
+
+#: Admin/View/Advertisements/add.ctp:2
+msgid "Add Advertisement"
+msgstr "Add Advertisement"
+
+#: Admin/View/Advertisements/add.ctp:18
+msgid "URL"
+msgstr "URL"
+
+#: Admin/View/Advertisements/add.ctp:24
+msgid "URL Type"
+msgstr "URL Type"
+
+#: Admin/View/Advertisements/add.ctp:30
+msgid "URL Target"
+msgstr "URL Target"
+
+#: Admin/View/Advertisements/add.ctp:26
+msgid "Internal"
+msgstr "Internal"
+
+#: Admin/View/Advertisements/add.ctp:26
+msgid "External"
+msgstr "External"
+
+
+#: Admin/View/Advertisements/add.ctp:36
+msgid "Upload Image (350*260)"
+msgstr "Upload Image (350*260)"
+
+#: Admin/View/Advertisements/add.ctp:32
+msgid "_self"
+msgstr "_self"
+
+#: Admin/View/Advertisements/add.ctp:32
+msgid "_blank"
+msgstr "_blank"
+
+#: Admin/View/Advertisements/edit.ctp:3
+msgid "Edit Advertisements"
+msgstr "Edit Advertisements"
+
+#: Admin/Controller/AdvertisementsController.php:36
+msgid "Advertisement has been saved"
+msgstr "Advertisement has been saved"
+
+#: Admin/Controller/AdvertisementsController.php:101
+msgid "Advertisement has been deleted"
+msgstr "Advertisement has been deleted"
+
+#: Admin/Controller/AdvertisementsController.php:160
+msgid "Photo Changed Successfully"
+msgstr "Photo Changed Successfully"
+
+#: Admin/View/Slides/index.ctp:11
+msgid "Slides"
+msgstr "Slides"
+
+#: Admin/View/Slides/index.ctp:15
+msgid "Add New Slide"
+msgstr "Add New Slide"
+
+#: Admin/View/Slides/index.ctp:32
+msgid "Slide Name"
+msgstr "Slide Name"
+
+#: Admin/View/Slides/add.ctp:9
+msgid "Add Slides"
+msgstr "Add Slides"
+
+#: Admin/View/Slides/add.ctp:26
+msgid "Upload Slide (1140*350)"
+msgstr "Upload Slide (1140*350)"
+
+#: Admin/View/Slides/edit.ctp:4
+msgid "Edit Slides"
+msgstr "Edit Slides"
+
+#: Admin/Controller/SlidesController.php:39
+msgid "Slide has been saved"
+msgstr "Slide has been saved"
+
+#: Admin/Controller/SlidesController.php:111
+msgid "Slide has been deleted"
+msgstr "Slide has been deleted"
+
+#: Admin/Controller/SlidesController.php:162
+msgid "Photo Changed Successfully"
+msgstr "Photo Changed Successfully"
+
+#: Admin/View/Testimonials/index.ctp:10
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: Admin/View/Testimonials/index.ctp:15
+msgid "Add New Testimonial"
+msgstr "Add New Testimonial"
+
+#: Admin/View/Testimonials/index.ctp:33
+msgid "Name"
+msgstr "Name"
+
+#: Admin/View/Testimonials/index.ctp:34
+msgid "Description"
+msgstr "Description"
+
+#: Admin/View/Testimonials/index.ctp:36
+msgid "Photo"
+msgstr "Photo"
+
+#: Admin/View/Testimonials/add.ctp:5
+msgid "Add Testimonials"
+msgstr "Add Testimonials"
+
+#: Admin/View/Testimonials/add.ctp:51
+msgid "Upload Photo (150*150)"
+msgstr "Upload Photo (150*150)"
+
+#: Admin/View/Testimonials/edit.ctp:8
+msgid "Edit Testimonials"
+msgstr "Edit Testimonials"
+
+
+#: Admin/Controller/TestimonialsController.php:37
+msgid "Testimonial has been saved"
+msgstr "Testimonial has been saved"
+
+#: Admin/Controller/TestimonialsController.php:71
+msgid "Testimonial has been updated"
+msgstr "Testimonial has been updated"
+
+#: Admin/Controller/TestimonialsController.php:102
+msgid "Testimonial has been deleted"
+msgstr "Testimonial has been deleted"
+
+#: Admin/View/News/index.ctp:11
+msgid "News"
+msgstr "News"
+
+#: Admin/View/News/index.ctp:15
+msgid "Add New News"
+msgstr "Add New News"
+
+#: Admin/View/News/index.ctp:33
+msgid "News Title"
+msgstr "News Title"
+
+#: Admin/View/News/add.ctp:2
+msgid "Add News"
+msgstr "Add News"
+
+#: Admin/View/News/add.ctp:13
+msgid "News Description"
+msgstr "News Description"
+
+#: Admin/View/News/edit.ctp:3
+msgid "Edit News"
+msgstr "Edit News"
+
+#: Admin/Controller/NewsController.php:37
+msgid "News has been saved"
+msgstr "News has been saved"
+
+#: Admin/Controller/NewsController.php:104
+msgid "News has been deleted"
+msgstr "News has been deleted"
+
+#: Admin/View/HelpContents/index.ctp:11
+msgid "Help Content"
+msgstr "Help Content"
+
+#: Admin/View/HelpContents/index.ctp:15
+msgid "Add New Help Content"
+msgstr "Add New Help Content"
+
+#: Admin/View/HelpContents/index.ctp:33
+msgid "Title"
+msgstr "Title"
+
+#: Admin/View/HelpContents/add.ctp:2
+msgid "Add Help Content"
+msgstr "Add Help Content"
+
+#: Admin/View/HelpContents/edit.ctp:3
+msgid "Edit Help Content"
+msgstr "Edit Help Content"
+
+#: Admin/Controller/HelpContentsController.php:37
+msgid "Help content has been saved"
+msgstr "Help content has been saved"
+
+#: Admin/Controller/HelpContentsController.php:104
+msgid "Help content has been deleted"
+msgstr "Help content has been deleted"
+
+#: Admin/View/Contents/page.ctp:10
+msgid "Pages"
+msgstr "Pages"
+
+#: Admin/View/Contents/page.ctp:15
+msgid "Add New Page"
+msgstr "Add New Page"
+
+#: Admin/View/Contents/page.ctp:32
+msgid "Link Name"
+msgstr "Link Name"
+
+#: Admin/View/Contents/page.ctp:33
+msgid "Page Name"
+msgstr "Page Name"
+
+#: Admin/View/Contents/page.ctp:35
+msgid "Published"
+msgstr "Published"
+
+#: Admin/View/Contents/page.ctp:46
+msgid "Unpublished"
+msgstr "Unpublished"
+
+#: Admin/View/Contents/add.ctp:20
+msgid "Add Pages"
+msgstr "Add Pages"
+
+#: Admin/View/Contents/add.ctp:30
+msgid "Link Order"
+msgstr "Link Order"
+
+#: Admin/View/Contents/add.ctp:36
+msgid "Page Type"
+msgstr "Page Type"
+
+#: Admin/View/Contents/add.ctp:42
+msgid "External Url"
+msgstr "External Url"
+
+#: Admin/View/Contents/add.ctp:57
+msgid "Page Url"
+msgstr "Page Url"
+
+#: Admin/View/Contents/add.ctp:63
+msgid "Page Content"
+msgstr "Page Content"
+
+#: Admin/View/Contents/add.ctp:46
+msgid "Url Target"
+msgstr "Url Target"
+
+#: Admin/View/Contents/edit.ctp:3
+msgid "Edit Pages"
+msgstr "Edit Pages"
+
+#: Admin/Controller/ContentsController.php:47
+msgid "Page Added Successfully"
+msgstr "Page Added Successfully"
+
+#: Admin/Controller/ContentsController.php:81
+msgid "Pages updated Successfully"
+msgstr "Pages updated Successfully"
+
+#: Admin/Controller/ContentsController.php:111
+msgid "Page has been deleted"
+msgstr "Page has been deleted"
+
+#: Admin/Controller/ContentsController.php:141
+msgid "Page has been Unpublished"
+msgstr "Page has been Unpublished"
+
+#: Admin/Controller/ContentsController.php:143
+msgid "Page has been Published"
+msgstr "Page has been Published"
+
+
+
+
+#: Admin/Controller/ContentsController.php:153
+msgid "Something wrong"
+msgstr "Something wrong"
+
+#: Admin/View/Signtures/index.ctp:2
+msgid "Certificate Signature"
+msgstr "Certificate Signature"
+
+#: Admin/View/Signtures/index.ctp:9
+msgid "Upload Image(* height less than 75px)"
+msgstr "Upload Image(* height less than 75px)"
+
+#: Admin/View/Signtures/index.ctp:9
+msgid "Delete Signature"
+msgstr "Delete Signature"
+
+#: Admin/Controller/SignturesController.php:14
+msgid "Signature has been saved"
+msgstr "Signature has been saved"
+
+#: Admin/Controller/SignturesController.php:34
+msgid "Signature has been deleted"
+msgstr "Signature has been deleted"
+
+#: Admin/View/Weblogos/index.ctp:2
+msgid "Organisation Logo"
+msgstr "Organisation Logo"
+
+
+#: Admin/View/Weblogos/index.ctp:8
+msgid "Upload Image(* height less than 220px)"
+msgstr "Upload Image(* height less than 220px)"
+
+
+#: Admin/View/Weblogos/index.ctp:16
+msgid "Delete Logo"
+msgstr "Delete Logo"
+
+#: Admin/Controller/WeblogosController.php:14
+msgid "Logo has been saved"
+msgstr "Logo has been saved"
+
+#: Admin/Controller/WeblogosController.php:38
+msgid "Logo has been deleted"
+msgstr "Logo has been deleted"
+
+#: Admin/View/Confrigrations/index.ctp:1
+msgid "Confrigration Options"
+msgstr "Confrigration Options"
+
+#: Admin/View/Confrigrations/index.ctp:6
+msgid "Site Name"
+msgstr "Site Name"
+
+#: Admin/View/Confrigrations/index.ctp:10
+msgid "Organization Name"
+msgstr "Organization Name"
+
+#: Admin/View/Confrigrations/index.ctp:16
+msgid "Domain Name"
+msgstr "Domain Name"
+
+#: Admin/View/Confrigrations/index.ctp:20
+msgid "Organization Email"
+msgstr "Organization Email"
+
+#: Admin/View/Confrigrations/index.ctp:26
+msgid "Meta Title"
+msgstr "Meta Title"
+
+#: Admin/View/Confrigrations/index.ctp:30
+msgid "Meta Description"
+msgstr "Meta Description"
+
+#: Admin/View/Confrigrations/index.ctp:37
+msgid "Time Zone"
+msgstr "Time Zone"
+
+#: Admin/View/Confrigrations/index.ctp:41
+msgid "Currency"
+msgstr "Currency"
+
+#: Admin/View/Confrigrations/index.ctp:47
+msgid "Header Contact"
+msgstr "Header Contact"
+
+#: Admin/View/Confrigrations/index.ctp:51
+msgid "Email Contact"
+msgstr "Email Contact"
+
+#: Admin/View/Confrigrations/index.ctp:57
+msgid "Display records per page"
+msgstr "Display records per page"
+
+#: Admin/View/Confrigrations/index.ctp:61
+msgid "Max records per page"
+msgstr "Max records per page"
+
+#: Admin/View/Confrigrations/index.ctp:68
+msgid "Date Format"
+msgstr "Date Format"
+
+#: Admin/View/Confrigrations/index.ctp:72
+msgid "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+msgstr "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+
+#: Admin/View/Confrigrations/index.ctp:75
+msgid "Enable SMS Notification"
+msgstr "Enable SMS Notification"
+
+#: Admin/View/Confrigrations/index.ctp:79
+msgid "Enable Email Notification"
+msgstr "Enable Email Notification"
+
+#: Admin/View/Confrigrations/index.ctp:83
+msgid "Manual Verification"
+msgstr "Manual Verification"
+
+#: Admin/View/Confrigrations/index.ctp:89
+msgid "Front End Registration"
+msgstr "Front End Registration"
+
+#: Admin/View/Confrigrations/index.ctp:93
+msgid "Front End Slides"
+msgstr "Front End Slides"
+
+#: Admin/View/Confrigrations/index.ctp:97
+msgid "Translation"
+msgstr "Translation"
+
+#: Admin/View/Confrigrations/index.ctp:103
+msgid "Paid Exam"
+msgstr "Paid Exam"
+
+
+#: Admin/View/Confrigrations/index.ctp:107
+msgid "Leader Board"
+msgstr "Leader Board"
+
+#: Admin/View/Confrigrations/index.ctp:111
+msgid "Math Editor"
+msgstr "Math Editor"
+
+#: Admin/View/Confrigrations/index.ctp:117
+msgid "Exam Expiry"
+msgstr "Exam Expiry"
+
+#: Admin/View/Confrigrations/index.ctp:121
+msgid "Exam Feedback"
+msgstr "Exam Feedback"
+
+#: Admin/View/Confrigrations/index.ctp:125
+msgid "Tolrance Count"
+msgstr "Tolrance Count"
+
+#: Admin/View/Confrigrations/index.ctp:131
+msgid "Certificate"
+msgstr "Certificate"
+
+#: Admin/View/Confrigrations/index.ctp:135
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: Admin/View/Confrigrations/index.ctp:139
+msgid "Advertisement"
+msgstr "Advertisement"
+
+#: Admin/View/Confrigrations/index.ctp:145
+msgid "No. of Visitor"
+msgstr "No. of Visitor"
+
+#: Admin/View/Confrigrations/index.ctp:149
+msgid "No. of Student"
+msgstr "No. of Student"
+
+#: Admin/View/Confrigrations/index.ctp:153
+msgid "No. of Exam"
+msgstr "No. of Exam"
+
+#: Admin/View/Confrigrations/index.ctp:160
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: Admin/Controller/ConfrigrationsController.php:138
+msgid "Your Setting has been saved"
+msgstr "Your Setting has been saved"
+
+#: Admin/View/Payments/index.ctp:2
+msgid "Paypal Payment Option"
+msgstr "Paypal Payment Option"
+
+#: Admin/View/Payments/index.ctp:6
+msgid "User Name"
+msgstr "User Name"
+
+#: Admin/View/Payments/index.ctp:12
+msgid "Password"
+msgstr "Password"
+
+#: Admin/View/Payments/index.ctp:18
+msgid "Signature"
+msgstr "Signature"
+
+#: Admin/View/Payments/index.ctp:24
+msgid "Sandbox Mode"
+msgstr "Sandbox Mode"
+
+#: Admin/View/Payments/index.ctp:27
+msgid "True"
+msgstr "True"
+
+#: Admin/Controller/PaymentsController.php:18
+msgid "Paypal Payment Setting has been saved"
+msgstr "Paypal Payment Setting has been saved"
+
+#: Admin/Controller/PaymentsController.php:24
+msgid "Setting Problem"
+msgstr "Setting Problem"
+
+#: Admin/View/Currencies/index.ctp:15
+msgid "Add New Currency"
+msgstr "Add New Currency"
+
+#: Admin/View/Currencies/index.ctp:32
+msgid "Currency Name"
+msgstr "Currency Name"
+
+#: Admin/View/Currencies/index.ctp:33
+msgid "Short Name"
+msgstr "Short Name"
+
+#: Admin/View/Currencies/add.ctp:4
+msgid "Add Currency"
+msgstr "Add Currency"
+
+#: Admin/View/Currencies/add.ctp:21
+msgid "Upload Currency (Less or equal to 50*50)"
+msgstr "Upload Currency (Less or equal to 50*50)"
+
+#: Admin/Controller/CurrenciesController.php:38
+msgid "Currency has been saved"
+msgstr "Currency has been saved"
+
+#: Admin/Controller/CurrenciesController.php:58
+msgid "Currency has been deleted"
+msgstr "Currency has been deleted"
+
+#: Admin/View/Subjects/index.ctp:10
+msgid "Subjects"
+msgstr "Subjects"
+
+#: Admin/View/Subjects/index.ctp:15
+msgid "Add New Subject"
+msgstr "Add New Subject"
+
+#: Admin/View/Subjects/index.ctp:32
+msgid "Subject Name"
+msgstr "Subject Name"
+
+#: Admin/View/Subjects/index.ctp:34
+msgid "Question Bank"
+msgstr "Question Bank"
+
+#: Admin/View/Subjects/index.ctp:50
+msgid "Add Question"
+msgstr "Add Question"
+
+#: Admin/View/Subjects/add.ctp:14
+msgid "Add Subjects"
+msgstr "Add Subjects"
+
+#: Admin/View/Subjects/add.ctp:14
+msgid "Edit Subjects"
+msgstr "Edit Subjects"
+
+#: Admin/View/Subjects/add.ctp:22
+msgid "Select Group"
+msgstr "Select Group"
+
+#: Admin/Controller/SubjectsController.php:57
+msgid "Subject Added Successfully"
+msgstr "Subject Added Successfully"
+
+#: Admin/Controller/SubjectsController.php:63
+msgid "Please Select atleast one group"
+msgstr "Please Select atleast one group"
+
+#: Admin/Controller/SubjectsController.php:103
+msgid "Please Select any group"
+msgstr "Please Select any group"
+
+#: Admin/Controller/SubjectsController.php:125
+msgid "Subject has been updated"
+msgstr "Subject has been updated"
+
+#: Admin/Controller/SubjectsController.php:161
+msgid "Subject has been deleted"
+msgstr "Subject has been deleted"
+
+#: Admin/View/Users/index.ctp:10
+msgid "Users"
+msgstr "Users"
+
+#: Admin/View/Users/index.ctp:15
+msgid "Add New User"
+msgstr "Add New User"
+
+#: Admin/View/Users/index.ctp:18
+msgid "Assign Form Rights"
+msgstr "Assign Form Rights"
+
+#: Admin/View/Users/index.ctp:33
+msgid "Level"
+msgstr "Level"
+
+#: Admin/View/Users/index.ctp:36
+msgid "Email"
+msgstr "Email"
+
+#: Admin/View/Users/index.ctp:37
+msgid "Mobile"
+msgstr "Mobile"
+
+#: Admin/View/Users/add.ctp:14
+msgid "Add Users"
+msgstr "Add Users"
+
+#: Admin/View/Users/add.ctp:18
+msgid "User Level"
+msgstr "User Level"
+
+#: Admin/View/Users/add.ctp:24
+msgid "Group"
+msgstr "Group"
+
+#: Admin/View/Users/add.ctp:30
+msgid "Username"
+msgstr "Username"
+
+#: Admin/View/Users/edit.ctp:13
+msgid "Edit Users"
+msgstr "Edit Users"
+
+#: Admin/View/Users/edit.ctp:18
+msgid "User Registration Form"
+msgstr "User Registration Form"
+
+#: Admin/View/Users/assignrights.ctp:1
+msgid "Level users"
+msgstr "Level users"
+
+#: Admin/View/Users/assignrights.ctp:6
+msgid "Add New Level"
+msgstr "Add New Level"
+
+#: Admin/View/Users/assignrights.ctp:9
+msgid "Back To Users"
+msgstr "Back To Users"
+
+#: Admin/View/Users/assignrights.ctp:18
+msgid "Level Name"
+msgstr "Level Name"
+
+#: Admin/View/Users/assignrights.ctp:31
+msgid "Set Permission"
+msgstr "Set Permission"
+
+#: Admin/View/Users/leveladd.ctp:3
+msgid "Add Level Users"
+msgstr "Add Level Users"
+
+#: Admin/View/Users/leveladd.ctp:7
+msgid "Level User"
+msgstr "Level User"
+
+#: Admin/View/Users/assignrightsedit.ctp:11
+msgid "Assign Form Rights"
+msgstr "Assign Form Rights"
+
+#: Admin/View/Users/assignrightsedit.ctp:19
+msgid "Module Name"
+msgstr "Module Name"
+
+#: Admin/View/Users/assignrightsedit.ctp:20
+msgid "Page Name"
+msgstr "Page Name"
+
+#: Admin/View/Users/change_pass.ctp:15
+msgid "Change Password"
+msgstr "Change Password"
+
+#: Admin/View/Users/change_pass.ctp:20
+msgid "Old Password"
+msgstr "Old Password"
+
+#: Admin/View/Users/change_pass.ctp:32
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: Admin/View/Users/my_profile.ctp:1
+msgid "My Profile"
+msgstr "My Profile"
+
+#: Admin/View/Users/login_form.ctp:2
+msgid "Log In"
+msgstr "Login"
+
+#: Admin/View/Users/login_form.ctp:2
+msgid "Dear user, log in to access the admin area!"
+msgstr "Dear user, log in to access the admin area!"
+
+#: Admin/View/Users/login_form.ctp:5
+msgid "Admin / Teacher Username"
+msgstr "Admin / Teacher Username"
+
+#: Admin/View/Users/login_form.ctp:16
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+#: Admin/View/Users/login_form.ctp:17
+msgid "Forgot User Name"
+msgstr "Forgot User Name"
+
+#: Admin/Controller/UsersController.php:56
+msgid "User Added Successfully"
+msgstr "User Added Successfully"
+
+#: Admin/Controller/UsersController.php:127
+msgid "User has been updated"
+msgstr "User has been updated"
+
+#: Admin/Controller/UsersController.php:159
+msgid "User has been deleted"
+msgstr "User has been deleted"
+
+#: Admin/Controller/UsersController.php:227
+msgid "Permission update successfully"
+msgstr "Permission update successfully"
+
+#: Admin/Controller/UsersController.php:256
+msgid "You have been logged in Successfully"
+msgstr "You have been logged in Successfully"
+
+#: Admin/Controller/UsersController.php:263
+msgid "Incorrect username/password"
+msgstr "Incorrect username/password"
+
+#: Admin/Controller/UsersController.php:280
+msgid "You have been logged out"
+msgstr "You have been logged out"
+
+#: Admin/Controller/UsersController.php:331
+msgid "Level User has been saved"
+msgstr "Level User has been saved"
+
+#: Admin/Controller/UsersController.php:353
+msgid "Level user has been deleted"
+msgstr "Level user has been deleted"
+
+#: Admin/Controller/UsersController.php:309
+msgid "Invalid Password"
+msgstr "Invalid Password"
+
+#: Admin/Controller/UsersController.php:304
+msgid "Password Changed Successfully"
+msgstr "Password Changed Successfully"
+
+#: Admin/View/Mails/index.ctp:19
+msgid "Mailbox"
+msgstr "Mailbox"
+
+#: Admin/View/Mails/index.ctp:30
+msgid "Compose"
+msgstr "Compose"
+
+#: Admin/View/Mails/index.ctp:33
+msgid "Inbox"
+msgstr "Inbox"
+
+#: Admin/View/Mails/index.ctp:34
+msgid "Sent Mail"
+msgstr "Sent Mail"
+
+#: Admin/View/Mails/index.ctp:35
+msgid "Trash"
+msgstr "Trash"
+
+#: Admin/View/Mails/index.ctp:55
+msgid "More"
+msgstr "More"
+
+
+#: Admin/View/Mails/index.ctp:59
+msgid "Mark as Read"
+msgstr "Mark as Read"
+
+#: Admin/View/Mails/index.ctp:60
+msgid "Mark as Unread"
+msgstr "Mark as Unread"
+
+#: Admin/View/Mails/view.ctp:6
+msgid "Reply"
+msgstr "Reply"
+
+#: Admin/View/Mails/view.ctp:7
+msgid "Forward"
+msgstr "Forward"
+
+#: Admin/View/Results/index.ctp:13
+msgid "Exam Wise"
+msgstr "Exam Wise"
+
+#: Admin/View/Results/index.ctp:24
+msgid "Name of Exam"
+msgstr "Name of Exam"
+
+#: Admin/View/Results/index.ctp:26
+msgid "Please Select Exam"
+msgstr "Please Select Exam"
+
+#: Admin/View/Results/index.ctp:28
+msgid "Status of Result"
+msgstr "Status of Result"
+
+#: Admin/View/Results/index.ctp:30
+msgid "PASSED"
+msgstr "PASSED"
+
+#: Admin/View/Results/index.ctp:30
+msgid "FAILED"
+msgstr "FAILED"
+
+#: Admin/View/Results/index.ctp:30
+msgid "Please Select Result Status"
+msgstr "Please Select Result Status"
+
+#: Admin/View/Results/index.ctp:35
+msgid "Search"
+msgstr "Search"
+
+#: Admin/View/Results/index.ctp:42
+msgid "Download Result"
+msgstr "Download Result"
+
+#: Admin/View/Results/index.ctp:46
+msgid "Rank"
+msgstr "Rank"
+
+#: Admin/View/Results/index.ctp:47
+msgid "Student Name"
+msgstr "Student Name"
+
+#: Admin/View/Results/index.ctp:49
+msgid "Test"
+msgstr "Test"
+
+#: Admin/View/Results/index.ctp:50
+msgid "Max Marks"
+msgstr "Max Marks"
+
+#: Admin/View/Results/index.ctp:51
+msgid "Marks Scored"
+msgstr "Marks Scored"
+
+#: Admin/View/Results/index.ctp:52
+msgid "Percent"
+msgstr "Percent"
+
+#: Admin/View/Results/index.ctp:53
+msgid "Result"
+msgstr "Result"
+
+#: Admin/View/Results/index.ctp:68
+msgid "View Result"
+msgstr "View Result"
+
+#: Admin/View/Results/index.ctp:69
+msgid "Download/Print Result"
+msgstr "Download/Print Result"
+
+#: Admin/View/Results/index.ctp:77
+msgid "Student Wise"
+msgstr "Student Wise"
+
+#: Admin/View/Results/index.ctp:82
+msgid "Name or Enrolment Number"
+msgstr "Name or Enrolment Number"
+
+#: Admin/View/Results/index.ctp:108
+msgid "Enrolment Number"
+msgstr "Enrolment Number"
+
+#: Admin/View/Results/index.ctp:137
+msgid "Result Status"
+msgstr "Result Status"
+
+#: Admin/View/Results/index.ctp:153
+msgid "Print Result"
+msgstr "Print Result"
+
+#: Admin/View/Results/index.ctp:125
+msgid "Back"
+msgstr "Back"
+
+#: Admin/View/Results/view.ctp:4
+msgid "Exam Details"
+msgstr "Exam Details"
+
+#: Admin/View/Results/stdexamresult.ctp:5
+msgid "Assesment Report for"
+msgstr "Assesment Report for"
+
+#: Admin/View/Results/stdexamresult.ctp:8
+msgid "Email ID"
+msgstr "Email ID"
+
+#: Admin/View/Results/stdexamresult.ctp:12
+msgid "Taken Date"
+msgstr "Taken Date"
+
+#: Admin/View/Results/stdexamresult.ctp:16
+msgid "Percentage"
+msgstr "Percentage"
+
+#: Admin/View/Results/stdexamresult.ctp:20
+msgid "Time Taken"
+msgstr "Time Taken"
+
+#: Admin/View/Results/stdexamresult.ctp:24
+msgid "Total Time"
+msgstr "Total Time"
+
+#: Admin/View/Results/stdexamresult.ctp:28
+msgid "Nos. of Browser tolrance attempt"
+msgstr "Nos. of Browser tolrance attempt"
+
+#: Admin/View/Results/stdexamresult.ctp:32
+msgid "Result"
+msgstr "Result"
+
+#: Admin/View/Results/stdexamresult.ctp:33
+msgid "PASSED"
+msgstr "PASSED"
+
+#: Admin/View/Results/stdexamresult.ctp:33
+msgid "FAILED"
+msgstr "FAILED"
+
+#: Admin/View/Results/stdexamresult.ctp:43
+msgid "Total Score"
+msgstr "Total Score"
+
+#: Admin/View/Results/stdexamresult.ctp:57
+msgid "Student Marks Distribution"
+msgstr "Student Marks Distribution"
+
+#: Admin/View/Results/stdexamresult.ctp:71
+msgid "Feedback"
+msgstr "Feedback"
+
+#: Admin/View/Results/stdexamresult.ctp:83
+msgid "Marks Sheet"
+msgstr "Marks Sheet"
+
+#: Admin/View/Results/stdexamresult.ctp:87
+msgid "Section Name"
+msgstr "Section Name"
+
+#: Admin/View/Results/stdexamresult.ctp:88
+msgid "Section proportion"
+msgstr "Section proportion"
+
+#: Admin/View/Results/stdexamresult.ctp:89
+msgid "No. of Questions"
+msgstr "No. of Questions"
+
+#: Admin/View/Results/stdexamresult.ctp:90
+msgid "Actual"
+msgstr "Actual"
+
+#: Admin/View/Results/stdexamresult.ctp:91
+msgid "Your Percentage"
+msgstr "Your Percentage"
+
+#: Admin/View/Results/stdexamresult.ctp:116
+msgid "Section Summary"
+msgstr "Section Summary"
+
+#: Admin/View/Results/stdexamresult.ctp:128
+msgid "Legend"
+msgstr "Legend"
+
+#: Admin/View/Results/stdexamresult.ctp:132
+msgid "Maximum Score"
+msgstr "Maximum Score"
+
+#: Admin/View/Results/stdexamresult.ctp:136
+msgid "Developed Skill"
+msgstr "Developed Skill"
+
+#: Admin/View/Results/stdexamresult.ctp:140
+msgid "Needs Development"
+msgstr "Needs Development"
+
+#: Admin/View/Results/stdexamresult.ctp:144
+msgid "Lack of Skill"
+msgstr "Lack of Skill"
+
+#: Admin/View/Results/stdexamresult.ctp:156
+msgid "MCQ  answered"
+msgstr "MCQ  answered"
+
+#: Admin/View/Results/stdexamresult.ctp:161
+msgid "Marked Answer"
+msgstr "Marked Answer"
+
+#: Admin/View/Results/stdexamresult.ctp:163
+msgid "Correct Answers"
+msgstr "Correct Answers"
+
+#: Admin/View/Results/stdexamresult.ctp:92
+msgid "(Hr:Min:Sec)"
+msgstr "(Hr:Min:Sec)"
+
+
+#: Admin/View/Results/stdexamresult.ctp:221
+msgid "Not Attempted"
+msgstr "Not Attempted"
+
+#: Admin/Controller/ResultsController.php:91
+msgid "Question Difficulty Level"
+msgstr "Question Difficulty Level"
+
+#: Admin/Controller/ResultsController.php:108
+msgid "Performance"
+msgstr "Performance"
+
+#: Admin/Controller/ResultsController.php:206
+msgid "Score"
+msgstr "Score"
+
+#: Admin/Controller/ResultsController.php:213
+msgid "Candidate Marks Distribution"
+msgstr "Candidate Marks Distribution"
+
+#: Admin/Controller/ResultsController.php:217
+msgid "Max Marks Distribution"
+msgstr "Max Marks Distribution"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Jan"
+msgstr "Jan"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Feb"
+msgstr "Feb"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Mar"
+msgstr "Mar"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Apr"
+msgstr "Apr"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "May"
+msgstr "May"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Jun"
+msgstr "Jun"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Jul"
+msgstr "Jul"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Aug"
+msgstr "Aug"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Sep"
+msgstr "Sep"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Oct"
+msgstr "Oct"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Nov"
+msgstr "Nov"
+
+#: Admin/Controller/ResultsController.php:130
+msgid "Dec"
+msgstr "Dec"
+
+
+#: Admin/View/Exam/index.ctp:10
+msgid "Exams"
+msgstr "Exams"
+
+#: Admin/View/Exam/index.ctp:16
+msgid "Add New Exam"
+msgstr "Add New Exam"
+
+#: Admin/View/Exam/index.ctp:33
+msgid "Exam Name"
+msgstr "Exam Name"
+
+#: Admin/View/Exam/index.ctp:34
+msgid "Start & End Date"
+msgstr "Start & End Date"
+
+#: Admin/View/Exam/index.ctp:36
+msgid "Type"
+msgstr "Type"
+
+#: Admin/View/Exam/index.ctp:37
+msgid "Inactive"
+msgstr "Inactive"
+
+#: Admin/View/Exam/index.ctp:39
+msgid "Closed"
+msgstr "Closed"
+
+#: Admin/View/Exam/index.ctp:58
+msgid "Questions Attempt Count"
+msgstr "Questions Attempt Count"
+
+#: Admin/View/Exam/index.ctp:59
+msgid "Stats"
+msgstr "Stats"
+
+#: Admin/View/Exam/add.ctp:92
+msgid "Add Exam"
+msgstr "Add Exam"
+
+#: Admin/View/Exam/add.ctp:102
+msgid "Passing Percentage"
+msgstr "Passing Percentage"
+
+#: Admin/View/Exam/add.ctp:108
+msgid "Instruction"
+msgstr "Instruction"
+
+#: Admin/View/Exam/add.ctp:114
+msgid "Exam Duration (Min.)"
+msgstr "Exam Duration (Min.)"
+
+#: Admin/View/Exam/add.ctp:116
+msgid "0 for unlimited duration"
+msgstr "0 for unlimited duration"
+
+#: Admin/View/Exam/add.ctp:118
+msgid "Attempt Count"
+msgstr "Attempt Count"
+
+#: Admin/View/Exam/add.ctp:120
+msgid "0 for unlimited attempt"
+msgstr "0 for unlimited attempt"
+
+#: Admin/View/Exam/add.ctp:125
+msgid "Start Date"
+msgstr "Start Date"
+
+#: Admin/View/Exam/add.ctp:132
+msgid "End Date"
+msgstr "End Date"
+
+#: Admin/View/Exam/add.ctp:141
+msgid "Show Answer Sheet"
+msgstr "Show Answer Sheet"
+
+#: Admin/View/Exam/add.ctp:143
+msgid "Yes"
+msgstr "Yes"
+
+#: Admin/View/Exam/add.ctp:143
+msgid "No"
+msgstr "No"
+
+#: Admin/View/Exam/add.ctp:151
+msgid "Negative Marking"
+msgstr "Negative Marking"
+
+#: Admin/View/Exam/add.ctp:155
+msgid "Random Question"
+msgstr "Random Question"
+
+#: Admin/View/Exam/add.ctp:162
+msgid "Paid Exam"
+msgstr "Paid Exam"
+
+#: Admin/View/Exam/add.ctp:167
+msgid "Amount"
+msgstr "Amount"
+
+#: Admin/View/Exam/add.ctp:175
+msgid "Browser Tolrance"
+msgstr "Browser Tolrance"
+
+#: Admin/View/Exam/add.ctp:180
+msgid "Expiry Days"
+msgstr "Expiry Days"
+
+#: Admin/View/Exam/add.ctp:187
+msgid "Result After Finish"
+msgstr "Result After Finish"
+
+#: Admin/View/Exam/add.ctp:191
+msgid "Mode"
+msgstr "Mode"
+
+#: Admin/View/Exam/add.ctp:193
+msgid "Exam"
+msgstr "Exam"
+
+
+#: Admin/View/Exam/add.ctp:193
+msgid "Prepration"
+msgstr "Prepration"
+
+#: Admin/View/Exam/add.ctp:200
+msgid "Add Subjects To Exams"
+msgstr "Add Subjects To Exams"
+
+#: Admin/View/Exam/add.ctp:208
+msgid "Ques Attempt Count"
+msgstr "Ques Attempt Count"
+
+#: Admin/View/Exam/add.ctp:209
+msgid "Question Type"
+msgstr "Question Type"
+
+#: Admin/View/Exam/add.ctp:210
+msgid "Difficulty Level"
+msgstr "Difficulty Level"
+
+#: Admin/View/Exam/add.ctp:236
+msgid "Subject"
+msgstr "Subject"
+
+#: Admin/View/Exam/add.ctp:238
+msgid "Please Select Subject"
+msgstr "Please Select Subject"
+
+
+#: Admin/View/Exam/add.ctp:250
+msgid "Leave blank for not showing (0 for unlimited)"
+msgstr "Leave blank for not showing (0 for unlimited)"
+
+#: Admin/View/Exam/add.ctp:264
+msgid "ctrl+click to add multiples"
+msgstr "ctrl+click to add multiples"
+
+
+#: Admin/View/Exam/add.ctp:270
+msgid "Add"
+msgstr "Add"
+
+#: Admin/View/Exam/add.ctp:84
+msgid "Subject Added successfully"
+msgstr "Subject Added successfully"
+
+#: Admin/View/Exam/add.ctp:182
+msgid "0 for Unlimited"
+msgstr "0 for Unlimited"
+
+
+#: Admin/View/Exam/edit.ctp:16
+msgid "Edit Exam"
+msgstr "Edit Exam"
+
+#: Admin/View/Exam/stats.ctp:3
+msgid "Exam Stats"
+msgstr "Exam Stats"
+
+#: Admin/View/Exam/stats.ctp:10
+msgid "Overall Result"
+msgstr "Overall Result"
+
+#: Admin/View/Exam/stats.ctp:11
+msgid "Student Stats"
+msgstr "Student Stats"
+
+#: Admin/View/Exam/stats.ctp:17
+msgid "Details"
+msgstr "Details"
+
+#: Admin/View/Exam/stats.ctp:18
+msgid "No of Student Passed"
+msgstr "No of Student Passed"
+
+#: Admin/View/Exam/stats.ctp:19
+msgid "No of Student Failed"
+msgstr "No of Student Failed"
+
+#: Admin/View/Exam/stats.ctp:20
+msgid "No of Student Absent"
+msgstr "No of Student Absent"
+
+#: Admin/View/Exam/stats.ctp:15
+msgid "From"
+msgstr "From"
+
+#: Admin/View/Exam/stats.ctp:16
+msgid "To"
+msgstr "To"
+
+#: Admin/View/Exam/stats.ctp:18
+msgid "Download"
+msgstr "Download"
+
+#: Admin/View/Exam/pdf/downloadresult.ctp:18
+msgid "S.No."
+msgstr "S.No."
+
+
+#: Admin/View/Exam/view.ctp:10
+msgid "Add Questions"
+msgstr "Add Questions"
+
+#: Admin/View/Exam/view.ctp:11
+msgid "Finalize Result"
+msgstr "Finalize Result"
+
+#: Admin/View/Exam/view.ctp:12
+msgid "Attempted Papers"
+msgstr "Attempted Papers"
+
+#: Admin/View/Exam/view.ctp:15
+msgid "Eligible Group"
+msgstr "Eligible Group"
+
+#: Admin/View/Exam/view.ctp:20
+msgid "Close Exam"
+msgstr "Close Exam"
+
+#: Admin/View/Exam/view.ctp:21
+msgid "Activate Exam"
+msgstr "Activate Exam"
+
+#: Admin/View/Exam/view.ctp:22
+msgid "Exam Closed Re-Activate Exam"
+msgstr "Exam Closed Re-Activate Exam"
+
+#: Admin/View/Exam/view.ctp:51
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: Admin/View/Exam/view.ctp:50
+msgid "Expiry"
+msgstr "Expiry"
+
+
+#: Admin/View/Exam/view.ctp:51
+msgid "Days"
+msgstr "Days"
+
+#: Admin/View/Exam/view.ctp:53
+msgid "Total Marks"
+msgstr "Total Marks"
+
+#: Admin/View/Exam/view.ctp:63
+msgid "Subjective"
+msgstr "Subjective"
+
+#: Admin/View/Exam/view.ctp:64
+msgid "Objective"
+msgstr "Objective"
+
+#: Admin/View/Exam/view.ctp:65
+msgid "True &amp; False"
+msgstr "True &amp; False"
+
+#: Admin/View/Exam/view.ctp:66
+msgid "Fill in the blanks"
+msgstr "Fill in the blanks"
+
+#: Admin/View/Exam/view.ctp:68
+msgid "Total Questions"
+msgstr "Total Questions"
+
+#: Admin/View/Exam/view.ctp:101
+msgid "Total"
+msgstr "Total"
+
+#: Admin/View/Exam/view.ctp:106
+msgid "E"
+msgstr "E"
+
+#: Admin/View/Exam/view.ctp:106
+msgid "M"
+msgstr "M"
+
+#: Admin/View/Exam/view.ctp:106
+msgid "H"
+msgstr "H"
+
+#: Admin/View/Exam/view.ctp:133
+msgid "Total Question"
+msgstr "Total Question"
+
+#: Admin/Controller/ExamController.php:60
+msgid "End Date is not less than Start date"
+msgstr "End Date is not less than Start date"
+
+#: Admin/Controller/ExamController.php:68
+msgid "Please Add Subject To Exam"
+msgstr "Please Add Subject To Exam"
+
+#: Admin/Controller/ExamController.php:105
+msgid "Exam has been saved. Add questions in exam"
+msgstr "Exam has been saved. Add questions in exam"
+
+#: Admin/Controller/ExamController.php:110
+msgid "Exam has been saved"
+msgstr "Exam has been saved"
+
+#: Admin/Controller/ExamController.php:180
+msgid "Exam has been updated"
+msgstr "Exam has been updated"
+
+#: Admin/Controller/ExamController.php:214
+msgid "Exam has been deleted"
+msgstr "Exam has been deleted"
+
+#: Admin/Controller/ExamController.php:346
+msgid "Subject Wise Question Count"
+msgstr "Subject Wise Question Count"
+
+#: Admin/Controller/ExamController.php:391
+msgid "Exam sucessfully inactivated"
+msgstr "Exam sucessfully inactivated"
+
+#: Admin/Controller/ExamController.php:397
+msgid "Exam sucessfully activated"
+msgstr "Exam sucessfully activated"
+
+#: Admin/Controller/ExamController.php:497
+msgid "Student"
+msgstr "Student"
+
+#: Admin/Controller/ExamController.php:502
+msgid "Passing %age"
+msgstr "Passing %age"
+
+#: Admin/Controller/ExamController.php:503
+msgid "Average %age"
+msgstr "Average %age"
+
+#: Admin/Controller/ExamController.php:675
+msgid "Maximum attempt question has been saved"
+msgstr "Maximum attempt question has been saved"
+
+#: Admin/Controller/ExamController.php:459
+msgid "Pass"
+msgstr "Pass"
+
+#: Admin/Controller/ExamController.php:460
+msgid "Fail"
+msgstr "Fail"
+
+#: Admin/Controller/ExamController.php:461
+msgid "Absent"
+msgstr "Absent"
+
+#: Admin/View/Student/index.ctp:10
+msgid "Students"
+msgstr "Students"
+
+#: Admin/View/Student/index.ctp:15
+msgid "Add New Student"
+msgstr "Add New Student"
+
+#: Admin/View/Student/index.ctp:18
+msgid "Import/Export Students"
+msgstr "Import/Export Students"
+
+#: Admin/View/Student/index.ctp:19
+msgid "Wallet"
+msgstr "Wallet"
+
+#: Admin/View/Student/index.ctp:20
+msgid "Transaction History"
+msgstr "Transaction History"
+
+#: Admin/View/Student/index.ctp:37
+msgid "Phone"
+msgstr "Phone"
+
+#: Admin/View/Student/index.ctp:39
+msgid "Admission Date"
+msgstr "Admission Date"
+
+#: Admin/View/Student/index.ctp:54
+msgid "Pending"
+msgstr "Pending"
+
+#: Admin/View/Student/add.ctp:13
+msgid "Add Students"
+msgstr "Add Students"
+
+#: Admin/View/Student/add.ctp:37
+msgid "Address"
+msgstr "Address"
+
+#: Admin/View/Student/add.ctp:47
+msgid "Guardian Phone"
+msgstr "Guardian Phone"
+
+#: Admin/View/Student/edit.ctp:18
+msgid "Edit Students"
+msgstr "Edit Students"
+
+#: Admin/View/Student/edit.ctp:75
+msgid "Renewal Date"
+msgstr "Renewal Date"
+
+#: Admin/View/Student/view.ctp:6
+msgid "View Student Information"
+msgstr "View Student Information"
+
+#: Admin/View/Student/view.ctp:17
+msgid "Full Name"
+msgstr "Full Name"
+
+#: Admin/View/Student/view.ctp:18
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: Admin/View/Student/view.ctp:25
+msgid "Registered Email"
+msgstr "Registered Email"
+
+#: Admin/View/Student/view.ctp:26
+msgid "Alternate Number"
+msgstr "Alternate Number"
+
+#: Admin/View/Student/view.ctp:34
+msgid "Enrolment No"
+msgstr "Enrolment No"
+
+#: Admin/View/Student/view.ctp:52
+msgid "Last Login"
+msgstr "Last Login"
+
+#: Admin/View/Student/wallet.ctp:3
+msgid "Students Wallet"
+msgstr "Students Wallet"
+
+#: Admin/View/Student/wallet.ctp:8
+msgid "Transaction Form"
+msgstr "Transaction Form"
+
+#: Admin/View/Student/wallet.ctp:29
+msgid "Balance"
+msgstr "Balance"
+
+#: Admin/View/Student/wallet.ctp:43
+msgid "Please Select"
+msgstr "Please Select"
+
+#: Admin/View/Student/wallet.ctp:43
+msgid "ADD"
+msgstr "ADD"
+
+#: Admin/View/Student/wallet.ctp:43
+msgid "DEDUCT"
+msgstr "DEDUCT"
+
+
+#: Admin/View/Student/wallet.ctp:47
+msgid "Remarks"
+msgstr "Remarks"
+
+#: Admin/View/Student/trnhistory.ctp:2
+msgid "Transaction History"
+msgstr "Transaction History"
+
+#: Admin/View/Student/trnhistory.ctp:20
+msgid "Credit"
+msgstr "Credit"
+
+#: Admin/View/Student/trnhistory.ctp:21
+msgid "Debit"
+msgstr "Debit"
+
+#: Admin/View/Student/trnhistory.ctp:23
+msgid "Date & Time"
+msgstr "Date & Time"
+
+#: Admin/View/Student/trnhistory.ctp:24
+msgid "Payment Through"
+msgstr "Payment Through"
+
+#: Admin/View/Iestudent/index.ctp:17
+msgid "Back To Students"
+msgstr "Back To Students"
+
+#: Admin/View/Iestudent/index.ctp:18
+msgid "Export Students"
+msgstr "Export Students"
+
+#: Admin/View/Iestudent/index.ctp:24
+msgid "Select File"
+msgstr "Select File"
+
+#: Admin/View/Iestudent/index.ctp:37
+msgid "Import Students"
+msgstr "Import Students"
+
+#: Admin/Controller/StudentController.php:96
+msgid "Student added Successfully"
+msgstr "Student added Successfully"
+
+#: Admin/Controller/StudentController.php:170
+msgid "Student has been updated"
+msgstr "Student has been updated"
+
+#: Admin/Controller/StudentController.php:203
+msgid "Student has been deleted"
+msgstr "Student has been deleted"
+
+#: Admin/Controller/StudentController.php:362
+msgid "Student Wallet has been updated"
+msgstr "Student Wallet has been updated"
+
+#: Admin/Controller/IestudentController.php:41
+msgid "Students imported successfully"
+msgstr "Students imported successfully"
+
+#: Admin/Controller/IestudentController.php:46
+msgid "File not uploaded"
+msgstr "File not uploaded"
+
+#: Admin/Controller/IestudentController.php:52
+msgid "Only CSV File supported"
+msgstr "Only CSV File supported"
+
+#: Admin/Controller/IequestionsController.php:44
+msgid "Questions imported successfully"
+msgstr "Questions imported successfully"
+
+#: Admin/Controller/IequestionsController.php:61
+msgid "Please Select Subject"
+msgstr "Please Select Subject"
+
+#: Admin/View/Forgots/password.ctp:9
+msgid "Submit"
+msgstr "Submit"
+
+#: Admin/View/Forgots/password.ctp:12
+msgid "Forgot Username"
+msgstr "Forgot Username"
+
+#: Admin/View/Forgots/password.ctp:13
+msgid "Login"
+msgstr "Login"
+
+#: Admin/View/Forgots/presetcode.ctp:2
+msgid "Verification Code"
+msgstr "Verification Code"
+
+#: Admin/View/Forgots/presetcode.ctp:5
+msgid "Please enter verification Code"
+msgstr "Please enter verification Code"
+
+#: Admin/View/Forgots/reset.ctp:17
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: Admin/Controller/ForgotsController.php:17
+msgid "Email id is not registered in system"
+msgstr "Email id is not registered in system"
+
+#: Admin/Controller/ForgotsController.php:54
+msgid "Incorrect code"
+msgstr "Incorrect code"
+
+#: Admin/Controller/ForgotsController.php:120
+msgid "Your username is sent to your registered email id"
+msgstr "Your username is sent to your registered email id"
+
+#: Admin/Controller/ForgotsController.php:32
+msgid "Your password is reset & sent to your registered email id"
+msgstr "Your password is reset & sent to your registered email id"
+
+#: Admin/View/Iequestions/index.ctp:15
+msgid "Import/Export Qusetions"
+msgstr "Import/Export Qusetions"
+
+#: Admin/View/Iequestions/index.ctp:17
+msgid "Back To Questions"
+msgstr "Back To Questions"
+
+#: Admin/View/Iequestions/index.ctp:18
+msgid "Export Questions"
+msgstr "Export Questions"
+
+#: Admin/View/Iequestions/index.ctp:43
+msgid "Import Questions"
+msgstr "Import Questions"
+
+#: Admin/View/Questions/index.ctp:10
+msgid "Questions"
+msgstr "Questions"
+
+#: Admin/View/Questions/index.ctp:15
+msgid "Add New Question"
+msgstr "Add New Question"
+
+#: Admin/View/Questions/index.ctp:17
+msgid "Import/Export Question"
+msgstr "Import/Export Question"
+
+#: Admin/View/Questions/index.ctp:32
+msgid "Question"
+msgstr "Question"
+
+#: Admin/View/Questions/add.ctp:68
+msgid "Option1"
+msgstr "Option1"
+
+
+#: Admin/View/Questions/add.ctp:68
+msgid "Option2"
+msgstr "Option2"
+
+#: Admin/View/Questions/add.ctp:68
+msgid "Option3"
+msgstr "Option3"
+
+#: Admin/View/Questions/add.ctp:68
+msgid "Option4"
+msgstr "Option4"
+
+#: Admin/View/Questions/add.ctp:68
+msgid "Option5"
+msgstr "Option5"
+
+#: Admin/View/Questions/add.ctp:68
+msgid "Option6"
+msgstr "Option6"
+
+
+#: Admin/View/Questions/add.ctp:79
+msgid "Type your question here"
+msgstr "Type your question here"
+
+#: Admin/View/Questions/add.ctp:106
+msgid "Answer1"
+msgstr "Answer1"
+
+#: Admin/View/Questions/add.ctp:106
+msgid "Answer2"
+msgstr "Answer2"
+
+#: Admin/View/Questions/add.ctp:106
+msgid "Answer3"
+msgstr "Answer3"
+
+#: Admin/View/Questions/add.ctp:106
+msgid "Answer4"
+msgstr "Answer4"
+
+#: Admin/View/Questions/add.ctp:106
+msgid "Answer5"
+msgstr "Answer5"
+
+#: Admin/View/Questions/add.ctp:106
+msgid "Answer6"
+msgstr "Answer6"
+
+#: Admin/View/Questions/add.ctp:112
+msgid "True/False"
+msgstr "True/False"
+
+#: Admin/View/Questions/add.ctp:126
+msgid "Blank Space"
+msgstr "Blank Space"
+
+#: Admin/View/Questions/add.ctp:129
+msgid "Explanation (Optional)"
+msgstr "Explanation (Optional)"
+
+#: Admin/View/Questions/add.ctp:129
+msgid "Provide explanation in support of correct answer"
+msgstr "Provide explanation in support of correct answer"
+
+#: Admin/View/Questions/add.ctp:145
+msgid "Hint(optional)"
+msgstr "Hint(optional)"
+
+#: Admin/View/Questions/add.ctp:145
+msgid "Hint to help answer correctly"
+msgstr "Hint to help answer correctly"
+
+#: Admin/View/Questions/add.ctp:152
+msgid "Marks"
+msgstr "Marks"
+
+#: Admin/View/Questions/add.ctp:158
+msgid "without minus sign"
+msgstr "without minus sign"
+
+#: Admin/View/Questions/add.ctp:158
+msgid "Negative Marks"
+msgstr "Negative Marks"
+
+#: Admin/View/Questions/add.ctp:55
+msgid "False"
+msgstr "False"
+
+#: Admin/View/Questions/add.ctp:61
+msgid "Edit Question Type"
+msgstr "Edit Question Type"
+
+#: Admin/View/Questions/add.ctp:141
+msgid "Explanation"
+msgstr "Explanation"
+
+#: Admin/View/Questions/add.ctp:141
+msgid "Hint"
+msgstr "Hint"
+
+#: Admin/View/Questions/view.ctp:79
+msgid "Correct Answer"
+msgstr "Correct Answer"
+
+#: Admin/View/Questions/viewquestion.ctp:14
+msgid "Question Details"
+msgstr "Question Details"
+
+#: Admin/Controller/QuestionsController.php:61
+msgid "Please Choose the Correct answer"
+msgstr "Please Choose the Correct answer"
+
+#: Admin/Controller/QuestionsController.php:65
+msgid "Please select true or false"
+msgstr "Please select true or false"
+
+#: Admin/Controller/QuestionsController.php:69
+msgid "Please fill blank space"
+msgstr "Please fill blank space"
+
+#: Admin/Controller/QuestionsController.php:87
+msgid "Question added to bank successfully"
+msgstr "Question added to bank successfully"
+
+#: Admin/Controller/QuestionsController.php:183
+msgid "Question has been updated"
+msgstr "Question has been updated"
+
+#: Admin/Controller/QuestionsController.php:218
+msgid "Question has been deleted"
+msgstr "Question has been deleted"
+
+#: Admin/View/Addquestion/index.ctp:30
+msgid "Reset"
+msgstr "Reset"
+
+#: Admin/View/Addquestion/index.ctp:36
+msgid "Add To Exam"
+msgstr "Add To Exam"
+
+#: Admin/View/Addquestion/index.ctp:37
+msgid "Delete To Exam"
+msgstr "Delete To Exam"
+
+#: Admin/View/Addquestion/index.ctp:38
+msgid "Back To Exam"
+msgstr "Back To Exam"
+
+#: Admin/View/Addquestion/index.ctp:55
+msgid "Body of Question"
+msgstr "Body of Question"
+
+#: Admin/Controller/AddquestionController.php:91
+msgid "Your Question has been added for exam"
+msgstr "Your Question has been added for exam"
+
+#: Admin/Controller/AddquestionController.php:111
+msgid "Your Question has been deleted for exam"
+msgstr "Your Question has been deleted for exam"
+
+#: Admin/View/Attemptedpapers/index.ctp:162
+msgid "Not Attempted"
+msgstr "Not Attempted"
+
+#: Admin/View/Attemptedpapers/index.ctp:22
+msgid "Back To Exam"
+msgstr "Back To Exam"
+
+#: Admin/View/Attemptedpapers/index.ctp:28
+msgid "Attempted Papers of"
+msgstr "Attempted Papers of"
+
+#: Admin/View/Attemptedpapers/index.ctp:42
+msgid "Obtained Marks"
+msgstr "Obtained Marks"
+
+#: Admin/View/Attemptedpapers/index.ctp:46
+msgid "Result Finalized"
+msgstr "Result Finalized"
+
+#: Admin/View/Attemptedpapers/index.ctp:47
+msgid "Finalize It"
+msgstr "Finalize It"
+
+#: Admin/View/Attemptedpapers/index.ctp:49
+msgid "Finalized By"
+msgstr "Finalized By"
+
+#: Admin/View/Attemptedpapers/index.ctp:65
+msgid "Question No"
+msgstr "Question No"
+
+#: Admin/View/Attemptedpapers/index.ctp:164
+msgid "Marks Obtained"
+msgstr "Marks Obtained"
+
+#: Admin/View/Attemptedpapers/index.ctp:182
+msgid "Checked by"
+msgstr "Checked by"
+
+#: Admin/View/Attemptedpapers/index.ctp:182
+msgid "System"
+msgstr "System"
+
+#: Admin/Controller/AttemptedpapersController.php:69
+msgid "Marks Updated"
+msgstr "Marks Updated"
+
+#: Admin/Controller/AttemptedpapersController.php:103
+msgid "Successfully Finalize"
+msgstr "Successfully Finalize"
+
+#: Admin/Controller/AttemptedpapersController.php:131
+msgid "Successfully Closed Exam"
+msgstr "Successfully Closed Exam"
+
+#: Admin/View/Dashboard/index.ctp:6
+msgid "In Progress Exam"
+msgstr "In Progress Exam"
+
+#: Admin/View/Dashboard/index.ctp:10
+msgid "Upcoming Exam"
+msgstr "Upcoming Exam"
+
+#: Admin/View/Dashboard/index.ctp:14
+msgid "Completed Exam"
+msgstr "Completed Exam"
+
+#: Admin/View/Dashboard/index.ctp:23
+msgid "In Progress & Upcoming Exams"
+msgstr "In Progress & Upcoming Exams"
+
+#: Admin/View/Dashboard/index.ctp:27
+msgid "Date"
+msgstr "Date"
+
+#: Admin/View/Dashboard/index.ctp:31
+msgid "Duration"
+msgstr "Duration"
+
+#: Admin/View/Dashboard/index.ctp:57
+msgid "Recent Exam Results"
+msgstr "Recent Exam Results"
+
+#: Admin/View/Dashboard/index.ctp:71
+msgid "Details"
+msgstr "Details"
+
+#: Admin/View/Dashboard/index.ctp:99
+msgid "Top 10 Student Group Wise"
+msgstr "Top 10 Student Group Wise"
+
+#: Admin/View/Dashboard/index.ctp:118
+msgid "Student Statistic Table"
+msgstr "Student Statistic Table"
+
+#: Admin/View/Dashboard/index.ctp:123
+msgid "Total Students"
+msgstr "Total Students"
+
+#: Admin/View/Dashboard/index.ctp:124
+msgid "Total Active"
+msgstr "Total Active"
+
+#: Admin/View/Dashboard/index.ctp:125
+msgid "Total Pending"
+msgstr "Total Pending"
+
+#: Admin/View/Dashboard/index.ctp:126
+msgid "Total Suspended"
+msgstr "Total Suspended"
+
+#: Admin/View/Dashboard/index.ctp:145
+msgid "Top 10 Question Bank Subject Wise"
+msgstr "Top 10 Question Bank Subject Wise"
+
+#: Admin/View/Dashboard/index.ctp:156
+msgid "Top 10 Difficulty Level of Questions"
+msgstr "Top 10 Difficulty Level of Questions"
+
+#: Admin/View/Dashboard/index.ctp:167
+msgid "Question Count Table"
+msgstr "Question Count Table"
+
+#: Admin/View/Dashboard/index.ctp:171
+msgid "Bank Name"
+msgstr "Bank Name"
+
+#: Admin/View/Dashboard/index.ctp:173
+msgid "Total Easy"
+msgstr "Total Easy"
+
+#: Admin/View/Dashboard/index.ctp:174
+msgid "Total Normal"
+msgstr "Total Normal"
+
+#: Admin/View/Dashboard/index.ctp:175
+msgid "Total Difficult"
+msgstr "Total Difficult"
+
+#: Admin/Controller/DashboardController.php:87
+msgid "Student Details"
+msgstr "Student Details"
+
+#: Admin/Controller/DashboardController.php:218
+msgid "Question Count"
+msgstr "Question Count"
+
+#: Admin/Controller/DashboardController.php:238
+msgid "Question Bank Difficulty Wise"
+msgstr "Question Bank Difficulty Wise"
+
+#: Admin/Controller/DashboardController.php:257
+msgid "Easy"
+msgstr "Easy"
+
+#: Admin/Controller/DashboardController.php:258
+msgid "Medium"
+msgstr "Medium"
+
+#: Admin/Controller/DashboardController.php:259
+msgid "Hard"
+msgstr "Hard"
+
+#: Admin/View/Layout/default.ctp:101
+msgid "All Messages"
+msgstr "All Messages"
+
+#: Admin/View/Layout/default.ctp:108
+msgid "Help"
+msgstr "Help"
+
+#: Admin/View/Layout/default.ctp:110
+msgid "Logout"
+msgstr "Logout"
+
+#: Admin/View/Layout/default.ctp:119
+msgid "Powered by"
+msgstr "Powered by"
+
+#: Admin/View/Layout/default.ctp:120
+msgid "Date &amp; Time"
+msgstr "Date &amp; Time"
+
+#: Admin/Controller/AdminAppController.php:86
+msgid "No Permission"
+msgstr "No Permission"
+
+#:App/view/dashboard/index.ctp:9
+msgid "My Exam Stats"
+msgstr "My Exam Stats"
+
+#:App/view/dashboard/index.ctp:13
+msgid "Total Exam Given"
+msgstr "Total Exam Given"
+
+#:App/view/dashboard/index.ctp:16
+msgid "Absent Exams"
+msgstr "Absent Exams"
+
+#:App/view/dashboard/index.ctp:19
+msgid "Best Score in"
+msgstr "Best Score in"
+
+#:App/view/dashboard/index.ctp:22
+msgid "On"
+msgstr "On"
+
+#:App/view/dashboard/index.ctp:25
+msgid "Failed in"
+msgstr "Failed in"
+
+#:App/view/dashboard/index.ctp:28
+msgid "Average Percentage"
+msgstr "Average Percentage"
+
+#:App/view/dashboard/index.ctp:31
+msgid "Your Rank"
+msgstr "Your Rank"
+
+#:App/view/dashboard/index.ctp:40
+msgid "Month Wise Performance"
+msgstr "Month Wise Performance"
+
+#:App/view/dashboard/index.ctp:52
+msgid "Exam Wise Performance"
+msgstr "Exam Wise Performance"
+
+#:App/view/dashboard/index.ctp:52
+msgid "Top 10"
+msgstr "Top 10"
+
+#:App/view/dashboard/index.ctp:64
+msgid "Todays Exam"
+msgstr "Todays Exam"
+
+#:App/view/dashboard/index.ctp:64
+msgid "Top"
+msgstr "Top"
+
+#:App/view/dashboard/index.ctp:69
+msgid "These are the exam(s) that can be taken right now"
+msgstr "These are the exam(s) that can be taken right now"
+
+#:App/view/dashboard/index.ctp:74
+msgid "No Exams found for today"
+msgstr "No Exams found for today"
+
+#:App/view/dashboard/index.ctp:74
+msgid "Month"
+msgstr "Month"
+
+#:App/view/leaderboards/index.ctp:14
+msgid "Average Percentage(%)"
+msgstr "Average Percentage(%)"
+
+#:App/view/leaderboards/index.ctp:15
+msgid "Exam Given"
+msgstr "Exam Given"
+
+#:App/view/groupperfomance/index.ctp:4
+msgid "Your performance compared to your group"
+msgstr "Your performance compared to your group"
+
+#:App/view/groupperfomance/index.ctp:4
+msgid "My Performance"
+msgstr "My Performance"
+
+#:App/view/groupperfomance/index.ctp:4
+msgid "My Group performance"
+msgstr "My Group performance"
+
+#:App/view/payment/index.ctp:4
+msgid "Payment From Pay Pal"
+msgstr "Payment From Pay Pal"
+
+#:App/view/payment/index.ctp:24
+msgid "Pay From Pay Pal"
+msgstr "Pay From Pay Pal"
+
+#:App/Controller/PaymentController.php:16
+msgid "Paypal Payment not set"
+msgstr "Paypal Payment not set"
+
+#:App/Controller/PaymentController.php:34
+msgid "Payment Cancel"
+msgstr "Payment Cancel"
+
+#:App/Controller/PaymentController.php:52
+msgid "Wallet Payment"
+msgstr "Wallet Payment"
+
+#:App/Controller/PaymentController.php:74
+msgid "Try again! Can not connect to paypal"
+msgstr "Try again! Can not connect to paypal"
+
+#:App/Controller/PaymentController.php:79
+msgid "Invalid Amount"
+msgstr "Invalid Amount"
+
+#:App/Controller/PaymentController.php:131
+msgid "Payment already done"
+msgstr "Payment already done"
+
+#:App/Controller/PaymentController.php:127
+msgid "Payment successfully! Amount %s added in your wallet"
+msgstr "Payment successfully! Amount %s added in your wallet "
+
+#:App/Controller/PaymentController.php:147
+msgid "Payment not done"
+msgstr "Payment not done"
+
+#:App/Controller/transactionhistorys.php:21
+msgid "Administrator"
+msgstr "Administrator"
+
+#:App/Controller/transactionhistorys.php:21
+msgid "Payment Gateway"
+msgstr "Payment Gateway"
+
+#:App/Controller/transactionhistorys.php:21
+msgid "Pay Exam"
+msgstr "Pay Exam"
+
+#:App/View/Mails/index.ctp:71
+msgid "Move to Inbox"
+msgstr "Move to Inbox"
+
+#:App/View/Mails/compose.ctp:4
+msgid "Compose Mail"
+msgstr "Compose Mail"
+
+
+#:App/View/Mails/compose.ctp:23
+msgid "Message"
+msgstr "Message"
+
+#:App/View/Mails/compose.ctp:30
+msgid "Send"
+msgstr "Send"
+
+#:App/Controller/MailsController.php:83
+msgid "Your Mail has been sent"
+msgstr "Your Mail has been sent"
+
+#:App/Controller/MailsController.php:108
+msgid "Forwarded message"
+msgstr "Forwarded message"
+
+#:App/Controller/MailsController.php:108
+msgid "at"
+msgstr "at"
+
+#:App/Controller/MailsController.php:153
+msgid "The mail has been moved to the Trash"
+msgstr "The mail has been moved to the Trash"
+
+#:App/Controller/MailsController.php:183
+msgid "Your Mail has been deleted"
+msgstr "Your Mail has been deleted"
+
+#:App/Controller/MailsController.php:203
+msgid "The mail has been moved to the Inbox"
+msgstr "The mail has been moved to the Inbox"
+
+#:App/Controller/MailsController.php:203
+msgid "The mail has been marked as Read"
+msgstr "The mail has been marked as Read"
+
+#:App/Controller/MailsController.php:203
+msgid "The mail has been marked as Unread"
+msgstr "The mail has been marked as Unread"
+
+#:App/View/Exam/index.ctp:11
+msgid "Todays Exam"
+msgstr "Today's Exam"
+
+
+#:App/View/Exam/index.ctp:12
+msgid "Purchased Exam"
+msgstr "Purchased Exam"
+
+#:App/View/Exam/index.ctp:13
+msgid "Expired Exam"
+msgstr "Expired Exam"
+
+#:App/View/Exam/Instructions.ctp:4
+msgid "Instructions"
+msgstr "Instructions"
+
+#:App/View/Exam/Instructions.ctp:7
+msgid "I am ready to begin"
+msgstr "I am ready to begin"
+
+#:App/View/Exam/Instructions.ctp:16
+msgid "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+msgstr "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+
+
+
+#:App/View/Exam/Instructions.ctp:13
+msgid "Exam Start"
+msgstr "Exam Start"
+
+#:App/View/Exam/guidelines.ctp:14
+msgid "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test"
+msgstr "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test."
+
+#:App/View/Exam/guidelines.ctp:22
+msgid "Please do not press "F5" during your test. This will finish your test and you will not be able to re-open the test"
+msgstr "Please do not press "F5" during your test. This will finish your test and you will not be able to re-open the test."
+
+#:App/View/Exam/guidelines.ctp:30
+msgid "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved"
+msgstr "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved."
+
+#:App/View/Exam/guidelines.ctp:38
+msgid "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc"
+msgstr "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc."
+
+
+#:App/View/Exam/guidelines.ctp:39
+msgid "Next"
+msgstr "Next"
+
+#:App/View/Exam/feedback.ctp:5
+msgid "Thank you for using the test"
+msgstr "Thank you for using the test"
+
+#:App/View/Exam/feedback.ctp:9
+msgid "1. The test instructions were"
+msgstr "1. The test instructions were"
+
+#:App/View/Exam/feedback.ctp:11
+msgid "Largely Clear"
+msgstr "Largely Clear"
+
+#:App/View/Exam/feedback.ctp:11
+msgid "Medium Clear"
+msgstr "Medium Clear"
+
+#:App/View/Exam/feedback.ctp:11
+msgid "Not Clear"
+msgstr "Not Clear"
+
+#:App/View/Exam/feedback.ctp:23
+msgid "Good"
+msgstr "Good"
+
+#:App/View/Exam/feedback.ctp:23
+msgid "Better"
+msgstr "Better"
+
+#:App/View/Exam/feedback.ctp:23
+msgid "Best"
+msgstr "Best"
+
+#:App/View/Exam/feedback.ctp:27
+msgid "Any other feedback suggestion"
+msgstr "Any other feedback suggestion"
+
+#:App/View/Exam/index.ctp:13
+msgid "No Exams found"
+msgstr "No Exams found"
+
+#:App/View/Exam/purchased.ctp:28
+msgid "These are the exam(s) which has been purchased"
+msgstr "These are the exam(s) which has been purchased"
+
+#:App/View/Exam/expired.ctp:28
+msgid "These are the exam(s) which has been expired"
+msgstr "These are the exam(s) which has been expired"
+
+#:App/View/Exam/Upcomming.ctp:28
+msgid "These are the exam(s) that are planned you in near future"
+msgstr "These are the exam(s) that are planned you in near future"
+
+#:App/View/Exam/Upcomming.ctp:28
+msgid "My Exams"
+msgstr "My Exams"
+
+#:App/View/Exam/view.ctp:3
+msgid "Details"
+msgstr "Details"
+
+#:App/View/Exam/view.ctp:61
+msgid "Attempt Now"
+msgstr "Attempt Now"
+
+#:App/View/Exam/submit.ctp:11
+msgid "Finalize"
+msgstr "Finalize"
+
+#:App/View/Exam/submit.ctp:17
+msgid "Do you wish to submit and close the"
+msgstr "Do you wish to submit and close the"
+
+
+#:App/View/Exam/submit.ctp:17
+msgid "Once you submit, you will not be able to review the"
+msgstr "Once you submit, you will not be able to review the"
+
+#:App/View/Exam/submit.ctp:18
+msgid "Summary of your attempts in this"
+msgstr "Summary of your attempts in this"
+
+#:App/View/Exam/submit.ctp:18
+msgid "as show below"
+msgstr "as show below"
+
+#:App/View/Exam/submit.ctp:19
+msgid "Attempted"
+msgstr "Attempted"
+
+#:App/View/Exam/submit.ctp:21
+msgid "Answered"
+msgstr "Answered"
+
+#:App/View/Exam/submit.ctp:22
+msgid "Not Answered"
+msgstr "Not Answered"
+
+#:App/View/Exam/submit.ctp:23
+msgid "Review"
+msgstr "Review"
+
+#:App/View/Exam/submit.ctp:26
+msgid "Finish"
+msgstr "Finish"
+
+#:App/View/Exam/submit.ctp:32
+msgid "Return To First Question"
+msgstr "Return To First Question"
+
+#:App/View/Exam/satrt.ctp:105
+msgid "Prev"
+msgstr "Prev"
+
+#:App/View/Exam/satrt.ctp:19
+msgid "Correct Marks"
+msgstr "Correct Marks"
+
+#:App/View/Exam/satrt.ctp:112
+msgid "Save & Next"
+msgstr "Save & Next"
+
+#:App/View/Exam/satrt.ctp:117
+msgid "Unreview"
+msgstr "Unreview"
+
+#:App/View/Exam/satrt.ctp:123
+msgid "Reset Answer"
+msgstr "Reset Answer"
+
+#:App/View/Exam/satrt.ctp:178
+msgid "Current Question"
+msgstr "Current Question"
+
+#:App/View/Exam/satrt.ctp:279
+msgid "Navigated Away"
+msgstr "Navigated Away"
+
+#:App/View/Exam/satrt.ctp:282
+msgid "you had navigated away from the test window. This will be reported to Moderator"
+msgstr "you had navigated away from the test window. This will be reported to Moderator"
+
+#:App/View/Exam/satrt.ctp:283
+msgid "Do not repeat this behaviour"
+msgstr "Do not repeat this behaviour"
+
+#:App/View/Exam/satrt.ctp:283
+msgid "Otherwise you may get disqualified"
+msgstr "Otherwise you may get disqualified"
+
+#:App/View/Exam/satrt.ctp:284
+msgid "Continue"
+msgstr "Continue"
+
+#:App/View/Ajaxcontents/examclose.ctp:12
+msgid "Exceeded permissible limit for Navigating away"
+msgstr "Exceeded permissible limit for Navigating away"
+
+#:App/View/Ajaxcontents/examclose.ctp:15
+msgid "You have exceeded the permissible limit for navigating away from your test"
+msgstr "You have exceeded the permissible limit for navigating away from your test."
+
+#:App/View/Ajaxcontents/examclose.ctp:16
+msgid "Your test has finished. You can close the window now"
+msgstr "Your test has finished. You can close the window now."
+
+#:App/Contrller/ExamsController.php:165
+msgid "You have attempted maximum exam."
+msgstr "You have attempted maximum exam."
+
+#:App/Contrller/ExamsController.php:283
+msgid "You have attempted maximum number of questions in this subject"
+msgstr "You have attempted maximum number of questions in this subject"
+
+#:App/Contrller/ExamsController.php:329
+msgid "You can find your result here"
+msgstr "You can find your result here"
+
+#:App/Contrller/ExamsController.php:334
+msgid "Thanks for given the exam."
+msgstr "Thanks for given the exam."
+
+#:App/Contrller/ExamsController.php:395
+msgid "Insufficient Amount."
+msgstr "Insufficient Amount."
+
+#:App/Contrller/ExamsController.php:470
+msgid "Feedback has submitted successfully!"
+msgstr "Feedback has submitted successfully!"
+
+#:App/Contrller/ExamsController.php:475
+msgid "Feedback already submitted."
+msgstr "Feedback already submitted."
+
+#:App/Contrller/ExamsController.php:383
+msgid "%s Deducted for paying exam"
+msgstr "%s Deducted for paying exam"
+
+#:App/Contrller/AjaxcontentsController.php:38
+msgid "You can find your result here."
+msgstr "You can find your result here."
+
+#:App/Contrller/AjaxcontentsController.php:44
+msgid "Thanks for given the exam."
+msgstr "Thanks for given the exam."
+
+#:App/View/Results/index.ctp:13
+msgid "My Results"
+msgstr "My Results"
+
+#:App/View/Results/index.ctp:28
+msgid "Attempt Date"
+msgstr "Attempt Date"
+
+#:App/View/Results/index.ctp:29
+msgid "Max.Marks"
+msgstr "Max.Marks"
+
+#:App/View/Results/index.ctp:41
+msgid "View Details"
+msgstr "View Details"
+
+#:App/View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "This is to certify that"
+
+#:App/View/Results/pdf/certificate.ctp:11
+msgid "has succesfully completed the"
+msgstr "has succesfully completed the"
+
+#:App/View/Results/pdf/certificate.ctp:11
+msgid "with"
+msgstr "with"
+
+
+
+#:App/View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "This is to certify that"
+
+#:App/View/Results/pdf/certificate.ctp:12
+msgid "in course program offered by"
+msgstr "in course program offered by "
+
+#:App/View/Results/view.ctp:38
+msgid "SCORE CARD"
+msgstr "SCORE CARD"
+
+#:App/View/Results/view.ctp:39
+msgid "SUBJECT REPORT"
+msgstr "SUBJECT REPORT"
+
+#:App/View/Results/view.ctp:40
+msgid "TIME MANAGEMENT"
+msgstr "TIME MANAGEMENT"
+
+#:App/View/Results/view.ctp:42
+msgid "QUESTION REPORT"
+msgstr "QUESTION REPORT"
+
+
+#:App/View/Results/view.ctp:43
+msgid "SOLUTION"
+msgstr "SOLUTION"
+
+#:App/View/Results/view.ctp:44
+msgid "COMPARE REPORT"
+msgstr "COMPARE REPORT"
+
+#:App/View/Results/view.ctp:49
+msgid "Score Card For"
+msgstr "Score Card For"
+
+#:App/View/Results/view.ctp:53
+msgid "Total No. of Student"
+msgstr "Total No. of Student"
+
+#:App/View/Results/view.ctp:55
+msgid "My Marks"
+msgstr "My Marks"
+
+#:App/View/Results/view.ctp:57
+msgid "Correct Question"
+msgstr "Correct Question"
+
+#:App/View/Results/view.ctp:59
+msgid "Incorrect Question"
+msgstr "Incorrect Question"
+
+#:App/View/Results/view.ctp:63
+msgid "Total Marks of Test"
+msgstr "Total Marks of Test"
+
+#:App/View/Results/view.ctp:65
+msgid "My Percentile"
+msgstr "My Percentile"
+
+#:App/View/Results/view.ctp:67
+msgid "Right Marks"
+msgstr "Right Marks"
+
+#:App/View/Results/view.ctp:73
+msgid "Total Question in Test"
+msgstr "Total Question in Test"
+
+#:App/View/Results/view.ctp:75
+msgid "Total Attempt Question in Test"
+msgstr "Total Attempt Question in Test"
+
+#:App/View/Results/view.ctp:77
+msgid "Left Question"
+msgstr "Left Question"
+
+#:App/View/Results/view.ctp:79
+msgid "Left Question Marks"
+msgstr "Left Question Marks"
+
+#:App/View/Results/view.ctp:83
+msgid "Total Time of Test"
+msgstr "Total Time of Test"
+
+#:App/View/Results/view.ctp:85
+msgid "My Time"
+msgstr "My Time"
+
+
+#:App/View/Results/view.ctp:87
+msgid "My Rank"
+msgstr "My Rank"
+
+#:App/View/Results/view.ctp:95
+msgid "Performance Report For"
+msgstr "Performance Report For"
+
+#:App/View/Results/view.ctp:102
+msgid "Question & Marks Wise Report For"
+msgstr "Question & Marks Wise Report For"
+
+#:App/View/Results/view.ctp:110
+msgid "Subject Report For"
+msgstr "Subject Report For"
+
+#:App/View/Results/view.ctp:116
+msgid "Correct"
+msgstr "Correct"
+
+#:App/View/Results/view.ctp:118
+msgid "Unattempted Questions"
+msgstr "Unattempted Questions"
+
+#:App/View/Results/view.ctp:131
+msgid "Graphical Report For"
+msgstr "Graphical Report For"
+
+#:App/View/Results/view.ctp:140
+msgid "Time Management For"
+msgstr "Time Management For"
+
+#:App/View/Results/view.ctp:174
+msgid "Question Report For"
+msgstr "Question Report For"
+
+#:App/View/Results/view.ctp:178
+msgid "Q.No."
+msgstr "Q.No."
+
+#:App/View/Results/view.ctp:179
+msgid "Question Status"
+msgstr "Question Status"
+
+#:App/View/Results/view.ctp:180
+msgid "Your Answer"
+msgstr "Your Answer"
+
+#:App/View/Results/view.ctp:182
+msgid "Your Score"
+msgstr "Your Score"
+
+#:App/View/Results/view.ctp:183
+msgid "Your Time"
+msgstr "Your Time"
+
+#:App/View/Results/view.ctp:253
+msgid "Solution For"
+msgstr "Solution For"
+
+#:App/View/Results/view.ctp:366
+msgid "Attempt"
+msgstr "Attempt"
+
+#:App/View/Results/view.ctp:366
+msgid "Not Attempt"
+msgstr "Not Attempt"
+
+#:App/View/Results/view.ctp:378
+msgid "Solution"
+msgstr "Solution"
+
+#:App/View/Results/view.ctp:388
+msgid "Bookmark"
+msgstr "Bookmark"
+
+#:App/View/Results/view.ctp:388
+msgid "Unbookmark"
+msgstr "Unbookmark"
+
+#:App/View/Results/view.ctp:420
+msgid "Compare Report For"
+msgstr "Compare Report For"
+
+#:App/View/Results/view.ctp:426
+msgid "Total Ques."
+msgstr "Total Ques."
+
+#:App/View/Results/view.ctp:430
+msgid "Maximum Marks"
+msgstr "Maximum Marks"
+
+#:App/View/Results/view.ctp:434
+msgid "Attempted Ques."
+msgstr "Attempted Ques."
+
+#:App/View/Results/view.ctp:438
+msgid "Unattempted Ques."
+msgstr "Unattempted Ques."
+
+#:App/View/Results/view.ctp:442
+msgid "Correct Ques."
+msgstr "Correct Ques."
+
+#:App/View/Results/view.ctp:446
+msgid "Incorrect Ques."
+msgstr "Incorrect Ques."
+
+#:App/View/Results/view.ctp:464
+msgid "Percentile"
+msgstr "Percentile"
+
+#:App/Controller/ResultsController.php:177
+msgid "Student Performance"
+msgstr "Student Performance"
+
+#:App/Controller/ResultsController.php:214
+msgid "Subject Wise Time Taken"
+msgstr "Subject Wise Time Taken"
+
+#:App/Controller/ResultsController.php:265
+msgid "Percentage(%) in Exam"
+msgstr "Percentage(%) in Exam"
+
+#:App/Controller/ResultsController.php:274
+msgid "You %s"
+msgstr "You %s"
+
+#:App/Controller/ResultsController.php:247
+msgid "Topper %s"
+msgstr "Topper %s"
+
+#:App/Controller/ResultsController.php:253
+msgid "You %s"
+msgstr "You %s"
+
+#:App/Controller/ResultsController.php:318
+msgid "st"
+msgstr "st"
+
+#:App/Controller/ResultsController.php:320
+msgid "nd"
+msgstr "nd"
+
+#:App/Controller/ResultsController.php:322
+msgid "rd"
+msgstr "rd"
+
+#:App/Controller/ResultsController.php:324
+msgid "th"
+msgstr "th"
+
+
+#:App/Controller/ResultsController.php:274
+msgid "Percentage(%)"
+msgstr "Percentage(%)"
+
+#:App/view/pagination.ctp:30
+msgid "Showing {:start} to {:current} of {:count} entries"
+msgstr "Showing {:start} to {:current} of {:count} entries"
+
+#:App/view/pagination.ctp:15
+msgid "Show"
+msgstr "Show"
+
+#:App/view/pagination.ctp:17
+msgid "entries"
+msgstr "entries"
+
+
+#:App/view/Register/index.ctp:15
+msgid "New  Student Register"
+msgstr "New  Student Register"
+
+#:App/view/Register/index.ctp:65
+msgid "Security Code"
+msgstr "Security Code"
+
+#:App/Controller/RegisterController.php:91
+msgid "A verification Code send to your Email inbox or Spam"
+msgstr "A verification Code send to your Email inbox or Spam"
+
+#:App/Controller/RegisterController.php:109
+msgid "Invalid Security Code"
+msgstr "Invalid Security Code"
+
+#:App/Controller/RegisterController.php:98
+msgid "Please select any group"
+msgstr "Please select any group"
+
+#:App/view/Emailverification/index.ctp:4
+msgid "Email Verification"
+msgstr "Email Verification"
+
+#:App/view/Emailverification/index.ctp:12
+msgid "Please Enter Verification Code in the Text Box"
+msgstr "Please Enter Verification Code in the Text Box"
+
+#:App/view/Emailverification/index.ctp:12
+msgid "Please Enter Email Id in the Text Box which you enter at the time of registration"
+msgstr "Please Enter Email Id in the Text Box which you enter at the time of registration"
+
+
+#:App/view/Emailverification/resend.ctp:4
+msgid "Re-Send Email Verification"
+msgstr "Re-Send Email Verification"
+
+#:App/Controller/EmailverificationController.php:42
+msgid "Email verified successfully"
+msgstr "Email verified successfully"
+
+#:App/Controller/EmailverificationController.php:49
+msgid "Invalid Verification Code"
+msgstr "Invalid Verification Code"
+
+#:App/Controller/EmailverificationController.php:95
+msgid "Email Id already verified"
+msgstr "Email Id already verified"
+
+
+#:App/Controller/EmailverificationController.php:102
+msgid "Email Id not registered in system"
+msgstr "Email Id not registered in system"
+
+#:App/view/User/login.ctp:4
+msgid "Student Login"
+msgstr "Student Login"
+
+#:App/view/User/login.ctp:23
+msgid "Sign In"
+msgstr "Sign In"
+
+#:App/view/User/login.ctp:33
+msgid "New User? Create Account"
+msgstr "New User? Create Account"
+
+#:App/view/User/login.ctp:29
+msgid "Forgot Passwocrd"
+msgstr "Forgot Passwocrd"
+
+#:App/Controller/UsersController.php:30
+msgid "Your account has expired. Please contact administrator"
+msgstr "Your account has expired. Please contact administrator"
+
+#:App/Controller/UsersController.php:44
+msgid "Your email not verified! Please click on link sent to your email inbox or spam"
+msgstr "Your email not verified! Please click on link sent to your email inbox or spam"
+
+#:App/Controller/UsersController.php:58
+msgid "Incorrect username/password"
+msgstr "Incorrect username/password"
+
+#:App/Controller/UsersController.php:58
+msgid "You are %s Member! Please contact administrator"
+msgstr "You are %s Member! Please contact administrator"
+
+#:App/Controller/UsersController.php:37
+msgid "You have been logged in successfully"
+msgstr "You have been logged in successfully"
+
+#:App/Controller/UsersController.php:67
+msgid "You have been logged out successfully"
+msgstr "You have been logged out successfully"
+
+#:App/view/News/show.ctp:4
+msgid "News Detail"
+msgstr "News Detail"
+
+#:App/view/profile/index.ctp:4
+msgid "Edit Profile"
+msgstr "Edit Profile"
+
+#:App/view/profile/edit_profile.ctp:4
+msgid "Profile"
+msgstr "Profile"
+
+#:App/Controller/ProfileController.php:45
+msgid "Profile Updated Successfully"
+msgstr "Profile Updated Successfully"
+
+#:App/Controller/ProfileController.php:68
+msgid "Photo Updated Successfully"
+msgstr "Photo Updated Successfully"
+
+#:App/Controller/AppController.php:155
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#:App/Controller/AppController.php:158
+msgid "My Result"
+msgstr "My Result"
+
+#:App/Controller/AppController.php:159
+msgid "Group Performance"
+msgstr "Group Performance"
+
+#:App/Controller/AppController.php:160
+msgid "Payment"
+msgstr "Payment"
+
+#:App/Controller/AppController.php:160
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#:App/view/Installer/index.ctp:9
+msgid "Installation"
+msgstr "Installation"
+
+#:App/view/Installer/index.ctp:37
+msgid "Step 1 of 4"
+msgstr "Step 1 of 4"
+
+
+#:App/view/Installer/index.ctp:38
+msgid "Server Configuration & Setup Requirements"
+msgstr "Server Configuration & Setup Requirements"
+
+
+#:App/view/Installer/index.ctp:42
+msgid "Setup Requirements"
+msgstr "Setup Requirements"
+
+#:App/view/Installer/index.ctp:44
+msgid "Installing this software require certain server side extension and capability"
+msgstr "Installing this software require certain server side extension and capability"
+
+#:App/view/Installer/index.ctp:44
+msgid "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+msgstr "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+
+#:App/view/Installer/index.ctp:50
+msgid "Extensions &amp; Applications"
+msgstr "Extensions &amp; Applications"
+
+#:App/view/Installer/index.ctp:56
+msgid "HTTP Server. For example: Apache"
+msgstr "HTTP Server. For example: Apache"
+
+#:App/view/Installer/index.ctp:57
+msgid "Require"
+msgstr "Require"
+
+#:App/view/Installer/index.ctp:60
+msgid "PHP 5.2.8 or greater"
+msgstr "PHP 5.2.8 or greater"
+
+#:App/view/Installer/index.ctp:64
+msgid "Database Engine MySQL (4 or greater)"
+msgstr "Database Engine MySQL (4 or greater)"
+
+#:App/view/Installer/index.ctp:68
+msgid "PDO Extension"
+msgstr "PDO Extension"
+
+#:App/view/Installer/index.ctp:72
+msgid "GD Extension"
+msgstr "GD Extension"
+
+#:App/view/Installer/index.ctp:73
+msgid "Mandatory"
+msgstr "Mandatory"
+
+#:App/view/Installer/index.ctp:83
+msgid "Server Status"
+msgstr "Server Status"
+
+#:App/view/Installer/index.ctp:89
+msgid "Extensions &amp; Applications"
+msgstr "Extensions &amp; Applications"
+
+#:App/view/Installer/index.ctp:95
+msgid "Web Server"
+msgstr "Web Server"
+
+#:App/view/Installer/index.ctp:99
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#:App/view/Installer/index.ctp:103
+msgid "MYSQL Version"
+msgstr "MYSQL Version"
+
+#:App/view/Installer/index.ctp:108
+msgid "PDO Unavailable"
+msgstr "PDO Unavailable"
+
+#:App/view/Installer/index.ctp:108
+msgid "PDO Available"
+msgstr "PDO Available"
+
+#:App/view/Installer/index.ctp:112
+msgid "GD Availiable"
+msgstr "GD Availiable"
+
+#:App/view/Installer/index.ctp:112
+msgid "GD Unavailiable"
+msgstr "GD Unavailiable"
+
+#:App/view/Installer/index.ctp:124
+msgid "Directory &amp; File Permission"
+msgstr "Directory &amp; File Permission"
+
+#:App/view/Installer/index.ctp:126
+msgid "These Folders of Files need to be"
+msgstr "These Folders of Files need to be"
+
+#:App/view/Installer/index.ctp:126
+msgid "Writable"
+msgstr "Writable"
+
+#:App/view/Installer/index.ctp:126
+msgid "for application to be installed."
+msgstr "for application to be installed."
+
+#:App/view/Installer/index.ctp:131
+msgid "Folders or Files"
+msgstr "Folders or Files"
+
+#:App/view/Installer/index.ctp:157
+msgid "Let's Start"
+msgstr "Let's Start"
+
+#:App/view/Installer/index.ctp:157
+msgid "Refresh"
+msgstr "Refresh"
+
+
+
+#:App/view/Installer/index.ctp:168
+msgid "Visit our website"
+msgstr "Visit our website"
+
+#:App/view/Installer/index.ctp:168
+msgid "for documentation and support"
+msgstr "for documentation and support"
+
+#:App/view/Installer/step1.ctp:46
+msgid "Step 2 of 4"
+msgstr "Step 2 of 4"
+
+
+
+#:App/view/Installer/step1.ctp:48
+msgid "Installation Agreement"
+msgstr "Installation Agreement"
+
+#:App/view/Installer/step1.ctp:81
+msgid "I Accept to Proceed"
+msgstr "I Accept to Proceed"
+
+#:App/view/Installer/step2.ctp:46
+msgid "Step 3 of 4"
+msgstr "Step 3 of 4"
+
+#:App/view/Installer/step2.ctp:47
+msgid "Database Connection Settings"
+msgstr "Database Connection Settings"
+
+#:App/view/Installer/step2.ctp:49
+msgid "Host Name"
+msgstr "Host Name"
+
+#:App/view/Installer/step2.ctp:52
+msgid "Usually Localhost"
+msgstr "Usually Localhost"
+
+#:App/view/Installer/step2.ctp:58
+msgid "Database Name"
+msgstr "Database Name"
+
+#:App/view/Installer/step2.ctp:67
+msgid "Database User"
+msgstr "Database User"
+
+#:App/view/Installer/step2.ctp:70
+msgid "Database User Name"
+msgstr "Database User Name"
+
+#:App/view/Installer/step2.ctp:76
+msgid "Database Password"
+msgstr "Database Password"
+
+#:App/view/Installer/step2.ctp:79
+msgid "Database User Password"
+msgstr "Database User Password"
+
+#:App/view/Installer/step2.ctp:84
+msgid "Database Type"
+msgstr "Database Type"
+
+#:App/view/Installer/step2.ctp:101
+msgid "Test Connection"
+msgstr "Test Connection"
+
+#:App/view/Installer/step3.ctp:46
+msgid "Step 4 of 4"
+msgstr "Step 4 of 4"
+
+#:App/view/Installer/step3.ctp:48
+msgid "Site Name"
+msgstr "Site Name"
+
+#:App/view/Installer/step3.ctp:50
+msgid "Name of Your Website"
+msgstr "Name of Your Website"
+
+#:App/view/Installer/step3.ctp:54
+msgid "Domain Name"
+msgstr "Domain Name"
+
+#:App/view/Installer/step3.ctp:56
+msgid "http://yourdomain.com"
+msgstr "http://yourdomain.com"
+
+#:App/view/Installer/step3.ctp:60
+msgid "Meta Keyword"
+msgstr "Meta Keyword"
+
+#:App/view/Installer/step3.ctp:62
+msgid "Useful for SEO"
+msgstr "Useful for SEO"
+
+#:App/view/Installer/step3.ctp:66
+msgid "Meta Description"
+msgstr "Meta Description"
+
+#:App/view/Installer/step3.ctp:68
+msgid "Meta Content for SEO"
+msgstr "Meta Content for SEO"
+
+#:App/view/Installer/step3.ctp:72
+msgid "Time Zone"
+msgstr "Time Zone"
+
+#:App/view/Installer/step3.ctp:74
+msgid "Please Select Timezone"
+msgstr "Please Select Timezone"
+
+#:App/view/Installer/step3.ctp:78
+msgid "Organization Name"
+msgstr "Organization Name"
+
+#:App/view/Installer/step3.ctp:80
+msgid "Name of Your Organization/Company"
+msgstr "Name of Your Organization/Company"
+
+#:App/view/Installer/step3.ctp:84
+msgid "Organization Email"
+msgstr "Organization Email"
+
+#:App/view/Installer/step3.ctp:86
+msgid "Default Admin Email"
+msgstr "Default Admin Email"
+
+#:App/view/Installer/step3.ctp:92
+msgid "Install Sample Data With Dummy Entries"
+msgstr "Install Sample Data With Dummy Entries"
+
+#:App/view/Installer/step3.ctp:103
+msgid "Install"
+msgstr "Install"
+
+#:App/view/Installer/step3.ctp:103
+msgid "Unwriteable"
+msgstr "Unwriteable"
+
+#:App/view/Installer/step3.ctp:103
+msgid "Writeable"
+msgstr "Writeable"
+
+#:App/Controller/InstallersController.php:63
+msgid "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+msgstr "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+
+#:App/Controller/InstallersController.php:101
+msgid "Unfortunately! we was unable to select database %s with the credentials that you had supplied us with."
+msgstr "Unfortunately! we was unable to select database %s with the credentials that you had supplied us with."
+
+#:App/Controller/InstallersController.php:104
+msgid "A connection was successfully established with the server."
+msgstr "A connection was successfully established with the server."
+
+#:App/Controller/InstallersController.php:259
+msgid "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+msgstr "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+
+#:App/Controller/InstallersController.php:269
+msgid "Database not found"
+msgstr "Database not found"
+
+#:App/Controller/InstallersController.php:280
+msgid "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+msgstr "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+
+#:App/view/Completes/index.ctp:9
+msgid "Installation Complete"
+msgstr "Installation Complete"
+
+#:App/view/Completes/index.ctp:46
+msgid "Aho! The System is installed  successfully."
+msgstr "Aho! The System is installed  successfully."
+
+#:App/view/Completes/index.ctp:58
+msgid "User"
+msgstr "User"
+
+#:App/view/Completes/index.ctp:54
+msgid "Go to Admin/Teacher Interface"
+msgstr "Go to Admin/Teacher Interface"
+
+#:App/view/Completes/index.ctp:55
+msgid "Go to Front End/Student Interface"
+msgstr "Go to Front End/Student Interface"
+
+#:App/view/Pages/home.ctp:7
+msgid "No of Visitors"
+msgstr "No of Visitors"
+
+#:App/view/Pages/home.ctp:16
+msgid "No of Students"
+msgstr "No of Students"
+
+#:App/view/Pages/home.ctp:25
+msgid "No of Exams"
+msgstr "No of Exams"
+
+#:App/view/Pages/home.ctp:40
+msgid "Latest News & Events"
+msgstr "Latest News & Events"
+
+#:App/view/Pages/home.ctp:40
+msgid "Home"
+msgstr "Home"
+
+#:App/view/Pages/home.ctp:40
+msgid "Register"
+msgstr "Register"
+
+#:App/view/Layout/default.ctp:351
+msgid "&copy; Copyright"
+msgstr "&copy; Copyright"
+
+#:App/view/Layout/default.ctp:187
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#:App/view/Layout/default.ctp:142
+msgid "Sign out"
+msgstr "Sign out"
+
+#:App/view/Layout/default.ctp:107
+msgid "Welcome to"
+msgstr "Welcome to"
+
+#:App/view/Layout/default.ctp:126
+msgid "Set Avatar"
+msgstr "Set Avatar"
+
+#:App/view/Layout/pdf.ctp:8
+msgid "Download PDF"
+msgstr "Download PDF"
+
+#:App/view/helper/captchahelper.ctp:16
+msgid "Enter security code shown above"
+msgstr "Enter security code shown above"
+
+#:App/view/helper/captchahelper.ctp:31
+msgid "Answer simple math"
+msgstr "Answer simple math"
+
+#:App/view/helper/functionhelper.ctp:45
+msgid "Hours"
+msgstr "Hours"
+
+#:App/view/helper/functionhelper.ctp:51
+msgid "Mins"
+msgstr "Mins"
+
+
+#:App/view/helper/functionhelper.ctp:57
+msgid "Sec"
+msgstr "Sec"
+
+#:App/view/helper/functionhelper.ctp:124
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#:App/view/helper/functionhelper.ctp:124
+msgid "Free"
+msgstr "Free"
+
+#:App/view/helper/functionhelper.ctp:128
+msgid "Days"
+msgstr "Days"
+
+#:App/view/helper/functionhelper.ctp:95
+msgid "Attempts"
+msgstr "Attempts"
+
+#:App/view/helper/functionhelper.ctp:95
+msgid "Remaining"
+msgstr "Remaining"
+
+#:App/view/helper/functionhelper.ctp:120
+msgid "Not Purchased"
+msgstr "Not Purchased"
+
+#App/Admin/Model/result.php:169
+msgid "Grand Total"
+msgstr "Grand Total"
+
+#App/view/exam/feedback.php:
+msgid "2. Language of question was"
+msgstr "2. Language of question was"
+
+#App/view/exam/feedback.php:
+msgid "3. Overall test experience was"
+msgstr "3. Overall test experience was"
+
+#App/Controller/mailsController.php:83
+msgid "Student Email not found"
+msgstr "Student Email not found"
+
+#App/Admin/view/Diffs/index.php:10
+msgid "Diffculty Level"
+msgstr "Diffculty Level"
+
+#App/Admin/Controller/Diff.php:10
+msgid "Name has been updated"
+msgstr "Name has been updated"
+
+#App/Admin/View/menunames.ctp:10
+msgid "Menu Names"
+msgstr "Menu Names"
+
+#App/Admin/View/menunames.ctp:31
+msgid "Model Name"
+msgstr "Model Name"
+
+#App/Admin/View/menunames.ctp:33
+msgid "Icon"
+msgstr "Icon"
+
+#App/View/Layout/default.ctp:
+msgid "Time"
+msgstr "Time"
+
+#App/View/Layout/default.ctp:
+msgid "follow on facebook"
+msgstr "follow on facebook"
+
+#App/admin/View/mail/compose.ctp:38
+msgid "Search Student Mail"
+msgstr "Search Student Mail"
+
+#App/View/mail/index.ctp:58
+msgid "Delete Forever"
+msgstr "Delete Forever"
+
+#App/View/mail/index.ctp:60
+msgid "Move to Trash"
+msgstr "Move to Trash"
+
+#App/admin/View/mail/compose.ctp:38
+msgid "Load Editor"
+msgstr "Load Editor"
+
+#App/Admin/view/Emailsettings/index.ctp:10
+msgid "E-Mail Settings"
+msgstr "E-Mail Settings"
+
+#App/Admin/view/Emailsettings/index.ctp:14
+msgid "Email Type"
+msgstr "Email Type"
+
+#App/Admin/view/Emailsettings/index.ctp:21
+msgid "Server Name / Host"
+msgstr "Server Name / Host"
+
+#App/Admin/view/Emailsettings/index.ctp:25
+msgid "Port"
+msgstr "Port"
+
+#App/Admin/view/Emailsettings/index.ctp:16
+msgid "LOCALHOST"
+msgstr "LOCALHOST"
+
+#App/Admin/view/Emailsettings/index.ctp:16
+msgid "SMTP"
+msgstr "SMTP"
+
+#App/Admin/Controller/EmailsettingsController.php:24
+msgid "Your Setting has been saved"
+msgstr "Your Setting has been saved"
+
+#App/Admin/View/Sendemails/index.ctp:53
+msgid "Send Emails"
+msgstr "Send Emails"
+
+#App/Admin/View/Sendemails/index.ctp:59
+msgid "Any Email"
+msgstr "Any Email"
+
+#App/Admin/View/Sendemails/index.ctp:71
+msgid "Type any email comma seprated"
+msgstr "Type any email comma seprated"
+
+#App/Admin/View/Sendemails/index.ctp:65
+msgid "Default all students if you add manually then search student email"
+msgstr "Default all students if you add manually then search student email"
+
+#App/Admin/View/Sendemails/index.ctp:77
+msgid "Type subject"
+msgstr "Type subject"
+
+#App/Admin/View/Sendemails/index.ctp:81
+msgid "Select Email Template"
+msgstr "Select Email Template"
+
+#App/Admin/View/Sendemails/index.ctp:87
+msgid "Email Template"
+msgstr "Email Template"
+
+#App/Admin/View/Sendemails/index.ctp:89
+msgid "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+msgstr "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+
+#App/Admin/Controller/SendemailsController.php:30
+msgid "Please select any type in the list"
+msgstr "Please select any type in the list"
+
+#App/Admin/Controller/SendemailsController.php:34
+msgid "Please type any email"
+msgstr "Please type any email"
+
+#App/Admin/Controller/SendemailsController.php:86
+msgid "Email has been sent"
+msgstr "Email has been sent"
+
+#App/Admin/Controller/SendemailsController.php:91
+msgid "No email to send"
+msgstr "No email to send"
+
+#App/Admin/View/Emailtempletes/index.ctp:10
+msgid "Email Templates"
+msgstr "Email Templates"
+
+#App/Admin/View/Emailtempletes/index.ctp:16
+msgid "Add New Email Template"
+msgstr "Add New Email Template"
+
+#App/Admin/View/Emailtempletes/index.ctp:16
+msgid "#"
+msgstr "#"
+
+#App/Admin/View/Emailtempletes/add.ctp:2
+msgid "Add Email Template"
+msgstr "Add Email Template"
+
+#App/Admin/View/Emailtempletes/view.ctp:15
+msgid "Template"
+msgstr "Template"
+
+#App/Admin/View/Emailtempletes/edit.ctp:3
+msgid "Edit Email Templates"
+msgstr "Edit Email Templates"
+
+#App/Admin/Controller/EmailtempletesController.php:37
+msgid "Email template has been saved"
+msgstr "Email template has been saved"
+
+#App/Admin/Controller/EmailtempletesController.php:102
+msgid "Email template has been deleted"
+msgstr "Email template has been deleted"
+
+
+#App/Admin/View/smssettings/index.ctp:2
+msgid "SMS Settings"
+msgstr "SMS Settings"
+
+#App/Admin/View/smssettings/index.ctp:7
+msgid "API Link"
+msgstr "API Link"
+
+#App/Admin/View/smssettings/index.ctp:11
+msgid "Sender ID"
+msgstr "Sender ID"
+
+#App/Admin/View/smssettings/index.ctp:27
+msgid "Heading Username"
+msgstr "Heading Username"
+
+#App/Admin/View/smssettings/index.ctp:29
+msgid "Username field provided by sms gateway"
+msgstr "Username field provided by sms gateway"
+
+#App/Admin/View/smssettings/index.ctp:31
+msgid "Heading Password"
+msgstr "Heading Password"
+
+#App/Admin/View/smssettings/index.ctp:33
+msgid "Password field provided by sms gateway"
+msgstr "Password field provided by sms gateway"
+
+#App/Admin/View/smssettings/index.ctp:37
+msgid "Heading Mobile No"
+msgstr "Heading Mobile No"
+
+#App/Admin/View/smssettings/index.ctp:39
+msgid "Mobile No field provided by sms gateway"
+msgstr "Mobile No field provided by sms gateway"
+
+#App/Admin/View/smssettings/index.ctp:41
+msgid "Heading Message"
+msgstr "Heading Message"
+
+#App/Admin/View/smssettings/index.ctp:43
+msgid "Message field provided by sms gateway"
+msgstr "Message field provided by sms gateway"
+
+#App/Admin/View/smssettings/index.ctp:47
+msgid "Heading Sender Id"
+msgstr "Heading Sender Id"
+
+#App/Admin/View/smssettings/index.ctp:49
+msgid "Sender Id field provided by sms gateway"
+msgstr "Sender Id field provided by sms gateway"
+
+#App/Admin/View/Sendsms/index.ctp:131
+msgid "Send Sms"
+msgstr "Send Sms"
+
+#App/Admin/View/Sendsms/index.ctp:138
+msgid "Teachers"
+msgstr "Teachers/Users"
+
+#App/Admin/View/Sendsms/index.ctp:138
+msgid "Any Sms"
+msgstr "Any Sms"
+
+#App/Admin/View/Sendsms/index.ctp:144
+msgid "Default all student if you add manually then search students name"
+msgstr "Default all student if you add manually then search students name"
+
+#App/Admin/View/Sendsms/index.ctp:105
+msgid "Default all teachers if you add manually then search teacher name"
+msgstr "Default all teachers/users if you add manually then search teacher/user name"
+
+#App/Admin/View/Sendemails/index.ctp:97
+msgid "Default all teachers if you add manually then search teacher email"
+msgstr "Default all teachers/users if you add manually then search teacher/user email"
+
+#App/Admin/View/Sendsms/index.ctp:150
+msgid "Type any number comma seprated"
+msgstr "Type any number comma seprated"
+
+#App/Admin/View/Sendsms/index.ctp:148
+msgid "Any Number"
+msgstr "Any Number"
+
+#App/Admin/View/Sendsms/index.ctp:154
+msgid "Select Sms Template"
+msgstr "Select Sms Template"
+
+#App/Admin/View/Sendsms/index.ctp:160
+msgid "Sms Template"
+msgstr "Sms Template"
+
+#App/Admin/View/Sendsms/index.ctp:162
+msgid "If you do not want to select sms template then simply type sms message"
+msgstr "If you do not want to select sms template then simply type sms message"
+
+#App/Admin/View/smstempletes/index.ctp:10
+msgid "Sms Template"
+msgstr "Sms Template"
+
+#App/Admin/View/smstempletes/index.ctp:16
+msgid "Add New SMS Template"
+msgstr "Add New SMS Template"
+
+#App/Admin/View/smstempletes/add.ctp:2
+msgid "Add SMS Template"
+msgstr "Add SMS Template"
+
+#App/Admin/View/smstempletes/edit.ctp:2
+msgid "Edit SMS templates"
+msgstr "Edit SMS templates"
+
+#App/Admin/Controller/smstempletesController.php:70
+msgid "SMS template has been saved"
+msgstr "SMS template has been saved"
+
+#App/Admin/Controller/smstempletesController.php:102
+msgid "SMS template has been deleted"
+msgstr "SMS template has been deleted"
+
+#App/Controller/ForgotsController.php:
+msgid "Your password reset link is sent to your registered email id"
+msgstr "Your password reset link is sent to your registered email id"
+
+#App/Controller/Admin/SendsmsController.php:
+msgid "Sms has been sent"
+msgstr "Sms has been sent"
+
+#App/Controller/Admin/SendsmsController.php:
+msgid "No sms to send"
+msgstr "No sms to send"
+
+#App/Controller/Admin/View/Configurations/index.ctp:78
+msgid "Text Direction"
+msgstr "Text Direction"
+
+#App/Controller/Admin/View/Configurations/index.ctp:80
+msgid "Left-to-right (LTR)"
+msgstr "Left-to-right (LTR)"
+
+#App/Controller/Admin/View/Configurations/index.ctp:80
+msgid "Right-to-Left (RTL)"
+msgstr "Right-to-Left (RTL)"
+
+#App/Controller/Admin/View/Configurations/index.ctp:73
+msgid "Capthca"
+msgstr "Capthca"
+
+#App/Controller/Admin/View/Configurations/index.ctp:75
+msgid "Image"
+msgstr "Image"
+
+#App/Controller/Admin/View/Configurations/index.ctp:75
+msgid "Text"
+msgstr "Text"
+
+#App/Controller/Admin/View/Configurations/index.ctp:83
+msgid "Language"
+msgstr "Language"
+
+#App/View/Helper/CaptchaHelper.php:15
+msgid "Can\'t read? Reload"
+msgstr "Can\'t read? Reload"
+
+#App/Controller/InstallersController.php:11
+msgid "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+msgstr "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+
+#App/Controller/Admin/Controller/ConfigurationsController.php:124
+msgid "English"
+msgstr "English"
+
+#App/Controller/Admin/Controller/GroupsController.php:111
+msgid "Delete subject first"
+msgstr "Delete subject first"
+
+#App/Controller/Admin/Controller/SubjectsController.php:166
+msgid "Delete exam first!"
+msgstr "Delete exam first!"
